@@ -269,6 +269,417 @@
         }
       ]
     },
+    [
+  {
+    "numero": 6,
+    "titulo": "Salmo 6 - Pedido de Misericórdia",
+    "reflexao": "Um clamor profundo de Davi em meio à dor física, espiritual e emocional.",
+    "versiculos": [
+      {
+        "numero": 1,
+        "texto": "Senhor, não me repreendas na tua ira, nem me castigues no teu furor.",
+        "explicacao": "Davi teme ser disciplinado por Deus em um momento já doloroso."
+      },
+      {
+        "numero": 2,
+        "texto": "Tem misericórdia de mim, Senhor, porque eu sou fraco.",
+        "explicacao": "Reconhece sua fragilidade e dependência total de Deus."
+      },
+      {
+        "numero": 3,
+        "texto": "A minha alma está perturbada; mas tu, Senhor, até quando?",
+        "explicacao": "Expressa ansiedade e a sensação de abandono momentâneo."
+      },
+      {
+        "numero": 4,
+        "texto": "Volta-te, Senhor, livra a minha alma; salva-me por tua misericórdia.",
+        "explicacao": "Ele sabe que sua salvação depende da graça."
+      },
+      {
+        "numero": 5,
+        "texto": "Porque na morte não há lembrança de ti; no sepulcro quem te louvará?",
+        "explicacao": "Davi argumenta que vivo ele pode adorar, morto não."
+      },
+      {
+        "numero": 6,
+        "texto": "Estou cansado do meu gemer; toda noite faço nadar a minha cama...",
+        "explicacao": "Mostra um sofrimento emocional intenso."
+      },
+      {
+        "numero": 7,
+        "texto": "Já os meus olhos estão consumidos pela mágoa...",
+        "explicacao": "O sofrimento afeta seu corpo e espírito."
+      },
+      {
+        "numero": 8,
+        "texto": "Apartai-vos de mim, todos os que praticais a iniquidade...",
+        "explicacao": "Davi sente que Deus ouviu seu clamor e afasta os ímpios."
+      },
+      {
+        "numero": 9,
+        "texto": "O Senhor ouviu a minha súplica; o Senhor receberá a minha oração.",
+        "explicacao": "Agora ele declara confiança plena."
+      },
+      {
+        "numero": 10,
+        "texto": "Envergonhem-se e perturbem-se todos os meus inimigos...",
+        "explicacao": "Finaliza com fé no julgamento de Deus."
+      }
+    ]
+  },
+
+  {
+    "numero": 7,
+    "titulo": "Salmo 7 - Deus é Juiz Justo",
+    "reflexao": "Davi pede livramento de falsas acusações e exalta a justiça de Deus.",
+    "versiculos": [
+      {
+        "numero": 1,
+        "texto": "Senhor, meu Deus, em ti confio; salva-me de todos os que me perseguem.",
+        "explicacao": "Davi busca proteção divina contra perseguidores."
+      },
+      {
+        "numero": 2,
+        "texto": "Para que ele não arrebate a minha alma como leão...",
+        "explicacao": "Descreve o perigo como algo feroz e iminente."
+      },
+      {
+        "numero": 3,
+        "texto": "Senhor, meu Deus, se eu fiz isto...",
+        "explicacao": "Davi declara inocência diante de falsas acusações."
+      },
+      {
+        "numero": 4,
+        "texto": "Se paguei com mal a quem tinha paz comigo...",
+        "explicacao": "Ele afirma que não retribuiu o bem com mal."
+      },
+      {
+        "numero": 5,
+        "texto": "Persiga o inimigo a minha alma e a alcance...",
+        "explicacao": "Se fosse culpado, aceitaria a punição."
+      },
+      {
+        "numero": 6,
+        "texto": "Levanta-te, Senhor, na tua ira...",
+        "explicacao": "Pede que Deus faça justiça."
+      },
+      {
+        "numero": 7,
+        "texto": "Assim te rodeará o ajuntamento de povos...",
+        "explicacao": "Reconhece Deus como juiz de todas as nações."
+      },
+      {
+        "numero": 8,
+        "texto": "O Senhor julgará os povos; julga-me, Senhor...",
+        "explicacao": "Pede julgamento segundo sua integridade."
+      },
+      {
+        "numero": 9,
+        "texto": "Tenha fim a maldade dos ímpios, e estabelece o justo...",
+        "explicacao": "Clama por purificação moral entre os homens."
+      },
+      {
+        "numero": 10,
+        "texto": "O meu escudo está com Deus...",
+        "explicacao": "Deus protege os retos de coração."
+      },
+      {
+        "numero": 11,
+        "texto": "Deus é juiz justo...",
+        "explicacao": "Confirma a imparcialidade da justiça divina."
+      },
+      {
+        "numero": 12,
+        "texto": "Se o homem não se converter, Deus afiará a sua espada...",
+        "explicacao": "A justiça divina alcançará os não arrependidos."
+      },
+      {
+        "numero": 13,
+        "texto": "E já preparou para ele instrumentos de morte...",
+        "explicacao": "O julgamento é inevitável."
+      },
+      {
+        "numero": 14,
+        "texto": "Eis que ele está com dores de iniqüidade...",
+        "explicacao": "O ímpio gera sua própria destruição."
+      },
+      {
+        "numero": 15,
+        "texto": "Cavou um poço e o fez fundo, e caiu na cova que fez.",
+        "explicacao": "A maldade retorna contra o próprio malfeitor."
+      },
+      {
+        "numero": 16,
+        "texto": "A sua miséria se voltará sobre a sua cabeça...",
+        "explicacao": "A justiça de Deus é retributiva."
+      },
+      {
+        "numero": 17,
+        "texto": "Eu louvarei ao Senhor segundo a sua justiça...",
+        "explicacao": "Davi finaliza exaltando a retidão divina."
+      }
+    ]
+  },
+
+  {
+    "numero": 8,
+    "titulo": "Salmo 8 - A Majestade de Deus e a Dignidade do Homem",
+    "reflexao": "Um hino que exalta a glória de Deus e o papel especial do ser humano na criação.",
+    "versiculos": [
+      {
+        "numero": 1,
+        "texto": "Ó Senhor, Senhor nosso, quão magnífico em toda a terra é o teu nome!",
+        "explicacao": "Davi começa exaltando a majestade divina."
+      },
+      {
+        "numero": 2,
+        "texto": "Da boca das crianças... estabeleceste força...",
+        "explicacao": "Até os pequenos proclamam a grandeza de Deus."
+      },
+      {
+        "numero": 3,
+        "texto": "Quando vejo os teus céus, obra dos teus dedos...",
+        "explicacao": "Davi contempla a criação e reconhece a grandiosidade de Deus."
+      },
+      {
+        "numero": 4,
+        "texto": "Que é o homem, para que te lembres dele?",
+        "explicacao": "Ele se admira com o cuidado de Deus pela humanidade."
+      },
+      {
+        "numero": 5,
+        "texto": "Fizeste-o um pouco menor do que os anjos...",
+        "explicacao": "O ser humano ocupa posição de honra na criação."
+      },
+      {
+        "numero": 6,
+        "texto": "Deste-lhe domínio sobre as obras das tuas mãos...",
+        "explicacao": "Deus deu ao homem autoridade sobre a Terra."
+      },
+      {
+        "numero": 7,
+        "texto": "Todas as ovelhas e bois, assim como os animais do campo...",
+        "explicacao": "Cita os seres sobre os quais o homem exerce domínio."
+      },
+      {
+        "numero": 8,
+        "texto": "As aves do céu, e os peixes do mar...",
+        "explicacao": "A criação inteira foi confiada ao homem."
+      },
+      {
+        "numero": 9,
+        "texto": "Ó Senhor, Senhor nosso, quão magnífico é o teu nome!",
+        "explicacao": "Termina repetindo a adoração inicial."
+      }
+    ]
+  },
+
+  {
+    "numero": 9,
+    "titulo": "Salmo 9 - A Justiça de Deus e o Destino dos Ímpios",
+    "reflexao": "Davi louva a Deus por julgamentos justos e libertação dos oprimidos.",
+    "versiculos": [
+      {
+        "numero": 1,
+        "texto": "Eu te louvarei, Senhor, de todo o meu coração...",
+        "explicacao": "Davi louva com sinceridade."
+      },
+      {
+        "numero": 2,
+        "texto": "Eu me alegrarei e regozijarei em ti...",
+        "explicacao": "Expressa alegria plena em Deus."
+      },
+      {
+        "numero": 3,
+        "texto": "Quando meus inimigos voltaram atrás...",
+        "explicacao": "Reconhece vitória dada por Deus."
+      },
+      {
+        "numero": 4,
+        "texto": "Pois tu tens sustentado o meu direito e a minha causa...",
+        "explicacao": "Deus julga com justiça."
+      },
+      {
+        "numero": 5,
+        "texto": "Repreendeste as nações, destruíste o ímpio...",
+        "explicacao": "Mostra o poder de Deus contra o mal."
+      },
+      {
+        "numero": 6,
+        "texto": "Ó inimigo, as destruições se consumaram...",
+        "explicacao": "As cidades inimigas foram destruídas."
+      },
+      {
+        "numero": 7,
+        "texto": "Mas o Senhor está assentado perpetuamente...",
+        "explicacao": "Deus reina eternamente."
+      },
+      {
+        "numero": 8,
+        "texto": "Ele mesmo julga o mundo com justiça...",
+        "explicacao": "Seu julgamento é perfeito e imparcial."
+      },
+      {
+        "numero": 9,
+        "texto": "O Senhor será também um alto refúgio para o oprimido...",
+        "explicacao": "Deus é abrigo para os necessitados."
+      },
+      {
+        "numero": 10,
+        "texto": "E em ti confiarão os que conhecem o teu nome...",
+        "explicacao": "Quem conhece Deus confia Nele."
+      },
+      {
+        "numero": 11,
+        "texto": "Cantai louvores ao Senhor...",
+        "explicacao": "Um chamado à adoração pública."
+      },
+      {
+        "numero": 12,
+        "texto": "Pois quando inquire do derramamento de sangue...",
+        "explicacao": "Deus não esquece os injustiçados."
+      },
+      {
+        "numero": 13,
+        "texto": "Tem misericórdia de mim, Senhor...",
+        "explicacao": "Davi busca ajuda pessoal."
+      },
+      {
+        "numero": 14,
+        "texto": "Para que eu conte todos os teus louvores...",
+        "explicacao": "A libertação o levará a testemunhar publicamente."
+      },
+      {
+        "numero": 15,
+        "texto": "As nações têm-se afundado na cova que fizeram...",
+        "explicacao": "Mais uma vez, a maldade volta contra o ímpio."
+      },
+      {
+        "numero": 16,
+        "texto": "O Senhor é conhecido pelo juízo que faz...",
+        "explicacao": "Deus se torna conhecido por sua justiça."
+      },
+      {
+        "numero": 17,
+        "texto": "Os ímpios serão lançados no inferno...",
+        "explicacao": "Mostra o destino final dos que rejeitam Deus."
+      },
+      {
+        "numero": 18,
+        "texto": "Porque o necessitado não será esquecido para sempre...",
+        "explicacao": "Deus honra os humildes e aflitos."
+      },
+      {
+        "numero": 19,
+        "texto": "Levanta-te, Senhor! Não prevaleça o homem...",
+        "explicacao": "Pede que Deus manifeste sua autoridade."
+      },
+      {
+        "numero": 20,
+        "texto": "Põe, Senhor, medo neles...",
+        "explicacao": "Para que reconheçam a soberania divina."
+      }
+    ]
+  },
+
+  {
+    "numero": 10,
+    "titulo": "Salmo 10 - Clamor Contra a Maldade",
+    "reflexao": "Uma súplica para que Deus intervenha contra a injustiça e o sofrimento dos pobres.",
+    "versiculos": [
+      {
+        "numero": 1,
+        "texto": "Por que estás ao longe, Senhor? Por que te escondes nos tempos de angústia?",
+        "explicacao": "O salmista sente como se Deus estivesse distante."
+      },
+      {
+        "numero": 2,
+        "texto": "Os ímpios, na sua arrogância, perseguem furiosamente os pobres...",
+        "explicacao": "Denuncia a opressão dos injustos."
+      },
+      {
+        "numero": 3,
+        "texto": "Pois o ímpio gloria-se do desejo da sua alma...",
+        "explicacao": "O ímpio se orgulha de seus pecados."
+      },
+      {
+        "numero": 4,
+        "texto": "O ímpio, por causa do orgulho do seu rosto, não busca a Deus...",
+        "explicacao": "O orgulho o impede de reconhecer Deus."
+      },
+      {
+        "numero": 5,
+        "texto": "Os seus caminhos são sempre prósperos...",
+        "explicacao": "A aparente prosperidade dos maus gera injustiça."
+      },
+      {
+        "numero": 6,
+        "texto": "Diz em seu coração: Não serei abalado...",
+        "explicacao": "Arrogância baseada na falsa segurança."
+      },
+      {
+        "numero": 7,
+        "texto": "A sua boca está cheia de imprecações...",
+        "explicacao": "Violência e mentira marcam sua fala."
+      },
+      {
+        "numero": 8,
+        "texto": "Põe-se de emboscada nas aldeias...",
+        "explicacao": "O ímpio age traiçoeiramente contra inocentes."
+      },
+      {
+        "numero": 9,
+        "texto": "Fica de tocaia como o leão na cova...",
+        "explicacao": "Compara a intenção do ímpio à de um predador."
+      },
+      {
+        "numero": 10,
+        "texto": "Encolhe-se, abaixa-se, para que os pobres caiam por suas garras.",
+        "explicacao": "O objetivo é explorar os vulneráveis."
+      },
+      {
+        "numero": 11,
+        "texto": "Diz em seu coração: Deus esqueceu-se...",
+        "explicacao": "O ímpio acredita que ficará impune."
+      },
+      {
+        "numero": 12,
+        "texto": "Levanta-te, Senhor! Ó Deus, levanta a tua mão...",
+        "explicacao": "Clamor por intervenção divina."
+      },
+      {
+        "numero": 13,
+        "texto": "Por que blasfema o ímpio de Deus?",
+        "explicacao": "O salmista se indigna com a insolência do ímpio."
+      },
+      {
+        "numero": 14,
+        "texto": "Tu o viste, porque atentas para o trabalho e enfado...",
+        "explicacao": "Deus observa o sofrimento dos oprimidos."
+      },
+      {
+        "numero": 15,
+        "texto": "Quebra o braço do ímpio e malvado...",
+        "explicacao": "Pede destruição do poder da maldade."
+      },
+      {
+        "numero": 16,
+        "texto": "O Senhor é Rei para todo o sempre...",
+        "explicacao": "Contrasta o reinado eterno de Deus com a fragilidade humana."
+      },
+      {
+        "numero": 17,
+        "texto": "Tu, Senhor, ouviste o desejo dos humildes...",
+        "explicacao": "Garantia de que Deus escuta os aflitos."
+      },
+      {
+        "numero": 18,
+        "texto": "Para fazer justiça ao órfão e ao oprimido...",
+        "explicacao": "Deus defende os vulneráveis para que os homens não oprima mais."
+      }
+    ]
+  }
+]
 
     {
       "numero": 23,
