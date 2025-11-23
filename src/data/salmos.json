@@ -1,5 +1,5 @@
-{
-  "salmos": [
+[
+  "salmos": 
     {
       "numero": 1,
       "titulo": "Salmo 1 - O Caminho dos Justos",
@@ -269,7 +269,7 @@
         }
       ]
     },
-    [
+    
   {
     "numero": 6,
     "titulo": "Salmo 6 - Pedido de Misericórdia",
@@ -1774,4 +1774,4 @@
       ]
     }
   ]
-
+ ]
