@@ -1,0 +1,51 @@
+{
+    "proverbios": [
+        {
+            "numero": 1,
+            "titulo": "Provérbios — Capítulo 1",
+            "intro": "Explicação completa dos versículos 1–33",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Propósito do livro",
+                    "explicacao": "Esses versículos deixam claro que Provérbios não foi escrito apenas para religiosos ou estudiosos, mas para qualquer pessoa que queira viver melhor. O objetivo é ensinar sabedoria prática, disciplina, bom senso e capacidade de tomar decisões corretas. O texto mostra que tanto o iniciante quanto o experiente podem crescer ao ouvir esses ensinamentos, desde que estejam dispostos a aprender."
+                },
+                {
+                    "versiculos": "7",
+                    "titulo": "O fundamento da sabedoria",
+                    "explicacao": "Aqui está o pilar de todo o livro: a sabedoria começa com o temor do Senhor. Isso significa reconhecer Deus como autoridade máxima e alinhar a vida aos Seus princípios. Quem rejeita essa base acaba desprezando a correção e a instrução, escolhendo viver guiado apenas pelos próprios impulsos."
+                },
+                {
+                    "versiculos": "8–9",
+                    "titulo": "A importância dos pais",
+                    "explicacao": "Esses versículos destacam o valor dos ensinamentos recebidos em casa. A instrução dos pais é apresentada como algo precioso, que embeleza a vida e protege o caráter. Ignorar conselhos familiares, quando são corretos, é abrir mão de uma proteção importante."
+                },
+                {
+                    "versiculos": "10–19",
+                    "titulo": "O perigo das más companhias",
+                    "explicacao": "Aqui o texto alerta contra convites para caminhos errados, especialmente aqueles que prometem ganhos fáceis e rápidos. O autor mostra que a violência, a injustiça e a ganância acabam se voltando contra quem as pratica. Quem entra nesse tipo de caminho acaba armando uma armadilha para si mesmo, mesmo achando que está sendo esperto."
+                },
+                {
+                    "versiculos": "20–23",
+                    "titulo": "A sabedoria chama",
+                    "explicacao": "A sabedoria é apresentada como alguém que fala abertamente, oferecendo orientação a todos. Ela não se esconde nem é inacessível. O problema não é falta de aviso, mas a resistência das pessoas em aceitar correção e mudar de atitude quando ainda há tempo."
+                },
+                {
+                    "versiculos": "24–27",
+                    "titulo": "As consequências da rejeição",
+                    "explicacao": "Esses versículos mostram um cenário duro: quando a sabedoria é rejeitada repetidamente, chega um momento em que as consequências se tornam inevitáveis. O texto ensina que não ouvir conselhos hoje resulta em sofrimento amanhã, muitas vezes quando já não há como evitar."
+                },
+                {
+                    "versiculos": "28–31",
+                    "titulo": "Colheita das próprias escolhas",
+                    "explicacao": "Aqui fica claro que cada pessoa colhe o fruto do caminho que escolheu. Não se trata de crueldade, mas de justiça. Quem insiste em viver sem sabedoria acaba enfrentando angústia, medo e frustração, porque rejeitou aquilo que poderia ter evitado esses problemas."
+                },
+                {
+                    "versiculos": "32–33",
+                    "titulo": "Dois finais possíveis",
+                    "explicacao": "O capítulo termina contrastando dois destinos:\n\nquem despreza a sabedoria caminha para a ruína;\n\nquem a ouve vive com segurança, tranquilidade e paz interior.\n\nA mensagem é direta: a sabedoria não elimina desafios, mas protege contra escolhas destrutivas."
+                }
+            ]
+        }
+    ]
+}

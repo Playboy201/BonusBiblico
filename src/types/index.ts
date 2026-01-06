@@ -20,3 +20,20 @@ export interface PalavraDoDia {
   versiculo: Versiculo;
   expiresAt: number;
 }
+
+export interface BlocoExplicacao {
+  versiculos: string;
+  titulo: string;
+  explicacao: string;
+}
+
+export interface Proverbio {
+  numero: number;
+  titulo: string;
+  intro: string;
+  blocos: BlocoExplicacao[];
+}
+
+export interface ProverbiosData {
+  proverbios: Proverbio[];
+}
