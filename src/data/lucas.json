@@ -1,0 +1,503 @@
+{
+    "livro": "Lucas",
+    "titulo": "Evangelho de Lucas Explicado",
+    "descricao": "Explicações detalhadas de cada capítulo do Evangelho de Lucas, focando na humanidade, compaixão e salvação universal trazida por Jesus.",
+    "capitulos": [
+        {
+            "numero": 1,
+            "titulo": "Evangelho de Lucas — Capítulo 1",
+            "intro": "Explicação completa dos versículos 1–80",
+            "blocos": [
+                {
+                    "versiculos": "1–4",
+                    "titulo": "Propósito do evangelho de Lucas",
+                    "explicacao": "Lucas escreve de forma organizada e investigativa, com o objetivo de oferecer certeza histórica e espiritual. Diferente dos outros evangelhos, ele enfatiza detalhes, contexto e ordem dos fatos. Isso mostra que fé cristã não é mito, mas baseada em acontecimentos reais."
+                },
+                {
+                    "versiculos": "5–7",
+                    "titulo": "Zacarias e Isabel: esterilidade e promessa",
+                    "explicacao": "O casal é descrito como justo diante de Deus, mas enfrenta esterilidade. Lucas mostra que fidelidade não impede dificuldades. Deus nem sempre age imediatamente, mas nunca ignora os fiéis."
+                },
+                {
+                    "versiculos": "8–17",
+                    "titulo": "Anúncio do nascimento de João Batista",
+                    "explicacao": "O anjo Gabriel anuncia que Isabel conceberá. João terá missão profética: preparar o povo para o Messias. Deus transforma frustração em propósito. O silêncio de anos antecede uma grande intervenção divina."
+                },
+                {
+                    "versiculos": "18–25",
+                    "titulo": "Dúvida de Zacarias e disciplina divina",
+                    "explicacao": "Zacarias questiona a promessa e fica mudo. A disciplina não é punição destrutiva, mas correção pedagógica. Deus ensina que fé exige confiança mesmo quando o milagre parece impossível."
+                },
+                {
+                    "versiculos": "26–38",
+                    "titulo": "Anúncio do nascimento de Jesus a Maria",
+                    "explicacao": "Maria recebe uma promessa ainda mais impossível: conceber sem conhecer homem. Sua resposta revela submissão e fé madura: “Eis aqui a serva do Senhor”. Fé verdadeira não exige controle, mas entrega."
+                },
+                {
+                    "versiculos": "39–45",
+                    "titulo": "Maria visita Isabel",
+                    "explicacao": "O encontro confirma as promessas. João salta no ventre, mostrando ação espiritual antes mesmo do nascimento. Deus confirma Sua palavra por meio da comunhão entre os que creem."
+                },
+                {
+                    "versiculos": "46–55",
+                    "titulo": "O cântico de Maria (Magnificat)",
+                    "explicacao": "Maria exalta a Deus por sua fidelidade. O cântico revela um Deus que exalta humildes, confronta soberbos e age na história. Espiritualidade aqui não é passiva, mas transformadora."
+                },
+                {
+                    "versiculos": "56",
+                    "titulo": "Maria permanece com Isabel",
+                    "explicacao": "Mostra apoio, serviço e maturidade espiritual. Grandes chamados não anulam responsabilidades práticas."
+                },
+                {
+                    "versiculos": "57–66",
+                    "titulo": "Nascimento de João Batista",
+                    "explicacao": "Deus cumpre sua promessa. A obediência de Isabel e Zacarias ao nome dado por Deus mostra alinhamento com a vontade divina, não com tradições humanas."
+                },
+                {
+                    "versiculos": "67–79",
+                    "titulo": "Propecia de Zacarias",
+                    "explicacao": "Zacarias, agora restaurado, profetiza sobre salvação, perdão e luz para os que vivem nas trevas. A disciplina produziu maturidade espiritual."
+                },
+                {
+                    "versiculos": "80",
+                    "titulo": "Crescimento de João Batista",
+                    "explicacao": "João cresce no deserto, longe da exposição pública. Deus forma seus servos no silêncio antes de usá-los em público."
+                }
+            ],
+            "sintese": [
+                "Fé cristã é histórica e fundamentada",
+                "Fidelidade não exclui sofrimento",
+                "Deus age no tempo certo, não no nosso",
+                "Obediência precede compreensão total",
+                "Deus prepara seus servos no anonimato"
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "Evangelho de Lucas — Capítulo 2",
+            "intro": "Explicação completa dos versículos 1–52",
+            "blocos": [
+                {
+                    "versiculos": "1–5",
+                    "titulo": "O decreto de César Augusto",
+                    "explicacao": "Lucas situa o nascimento de Jesus dentro da história mundial. O recenseamento romano obriga José e Maria a viajarem. Mesmo decisões políticas humanas são usadas por Deus para cumprir profecias. O Messias nasce no cenário da opressão, não do conforto."
+                },
+                {
+                    "versiculos": "6–7",
+                    "titulo": "Nascimento de Jesus",
+                    "explicacao": "Jesus nasce em extrema simplicidade, colocado numa manjedoura. Deus escolhe humildade em vez de glória humana. Isso confronta expectativas de poder e sucesso."
+                },
+                {
+                    "versiculos": "8–14",
+                    "titulo": "Anúncio aos pastores",
+                    "explicacao": "Pastores eram socialmente desprezados. Deus revela primeiro a eles o nascimento do Salvador. O Reino se manifesta aos humildes, não aos poderosos."
+                },
+                {
+                    "versiculos": "15–20",
+                    "titulo": "Os pastores visitam o menino",
+                    "explicacao": "Eles creem, vão e testemunham. A fé verdadeira gera ação e testemunho público. Maria guarda tudo no coração, mostrando reflexão espiritual."
+                },
+                {
+                    "versiculos": "21",
+                    "titulo": "Circuncisão e nome de Jesus",
+                    "explicacao": "Jesus cumpre a Lei desde o nascimento. Isso mostra que Ele não veio abolir a Lei, mas cumpri-la plenamente."
+                },
+                {
+                    "versiculos": "22–24",
+                    "titulo": "Apresentação no templo",
+                    "explicacao": "José e Maria oferecem sacrifício dos pobres. O Salvador nasce entre os humildes e se identifica com eles."
+                },
+                {
+                    "versiculos": "25–35",
+                    "titulo": "Profecia de Simeão",
+                    "explicacao": "Simeão reconhece Jesus como luz para os gentios e glória de Israel. Ele também anuncia sofrimento futuro. A salvação traz redenção, mas também divisão."
+                },
+                {
+                    "versiculos": "36–38",
+                    "titulo": "Profecia de Ana",
+                    "explicacao": "Ana representa perseverança espiritual. Sua longa espera é recompensada. Deus honra aqueles que permanecem fiéis mesmo sem respostas imediatas."
+                },
+                {
+                    "versiculos": "39–40",
+                    "titulo": "Infância em Nazaré",
+                    "explicacao": "Jesus cresce física, emocional e espiritualmente. Isso mostra desenvolvimento humano real, não aparência divina."
+                },
+                {
+                    "versiculos": "41–50",
+                    "titulo": "Jesus aos doze anos no templo",
+                    "explicacao": "Jesus demonstra consciência de sua missão. Ele respeita os pais, mas prioriza a vontade do Pai celestial. Fé verdadeira organiza prioridades."
+                },
+                {
+                    "versiculos": "51–52",
+                    "titulo": "Crescimento equilibrado de Jesus",
+                    "explicacao": "Jesus cresce em sabedoria, estatura e graça. Espiritualidade saudável é integral, não apenas religiosa."
+                }
+            ],
+            "sintese": [
+                "Deus age na história humana real",
+                "O Reino começa na humildade",
+                "Fé verdadeira gera ação e testemunho",
+                "Obediência antecede reconhecimento público",
+                "Crescimento espiritual é integral"
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "Evangelho de Lucas — Capítulo 3",
+            "intro": "Explicação completa dos versículos 1–38",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Contexto histórico e ministério de João Batista",
+                    "explicacao": "Lucas detalha governantes e líderes religiosos, mostrando que a Palavra de Deus surge em tempos de corrupção e crise. João prepara o caminho chamando ao arrependimento."
+                },
+                {
+                    "versiculos": "7–14",
+                    "titulo": "Pregação prática de arrependimento",
+                    "explicacao": "João confronta hipocrisia religiosa. Arrependimento verdadeiro produz mudanças concretas: justiça social, honestidade e compaixão. Fé sem transformação é vazia."
+                },
+                {
+                    "versiculos": "15–18",
+                    "titulo": "João aponta para o Messias",
+                    "explicacao": "João deixa claro que não é o Cristo. Humildade e consciência de missão evitam idolatria humana."
+                },
+                {
+                    "versiculos": "19–20",
+                    "titulo": "Prisão de João Batista",
+                    "explicacao": "A verdade incomoda o poder. João paga preço alto por confrontar o pecado. Integridade tem custo real."
+                },
+                {
+                    "versiculos": "21–22",
+                    "titulo": "Batismo de Jesus",
+                    "explicacao": "Jesus é batizado em obediência e identificação com a humanidade. O Espírito desce e o Pai confirma sua identidade. Trindade revelada em ação."
+                },
+                {
+                    "versiculos": "23",
+                    "titulo": "Início do ministério público de Jesus",
+                    "explicacao": "Jesus começa por volta dos trinta anos, mostrando maturidade e preparação antes da exposição pública."
+                },
+                {
+                    "versiculos": "24–38",
+                    "titulo": "Genealogia de Jesus",
+                    "explicacao": "Lucas traça a linhagem até Adão, enfatizando que Jesus veio para toda a humanidade, não apenas para Israel. Ele é o Filho do Homem e o Filho de Deus."
+                }
+            ],
+            "sintese": [
+                "Deus fala em contextos de crise",
+                "Arrependimento exige mudança prática",
+                "Humildade preserva a missão",
+                "Verdade pode gerar perseguição",
+                "Jesus veio para toda a humanidade"
+            ]
+        },
+        {
+            "numero": 4,
+            "titulo": "Evangelho de Lucas — Capítulo 4",
+            "intro": "Explicação completa dos versículos 1–44",
+            "blocos": [
+                {
+                    "versiculos": "1–13",
+                    "titulo": "Tentação de Jesus no deserto",
+                    "explicacao": "Jesus, cheio do Espírito, é tentado pelo diabo. As tentações atacam necessidades legítimas (fome, identidade e poder), mas de forma distorcida. Jesus vence usando a Palavra de Deus, mostrando que maturidade espiritual não evita tentações, mas capacita a resistir.\nAlerta: espiritualidade sem base bíblica é frágil.\nPró: conhecimento da Palavra fortalece decisões."
+                },
+                {
+                    "versiculos": "14–15",
+                    "titulo": "Retorno à Galileia em poder",
+                    "explicacao": "Após vencer o deserto, Jesus volta fortalecido. Provações bem enfrentadas produzem crescimento espiritual e autoridade."
+                },
+                {
+                    "versiculos": "16–21",
+                    "titulo": "Jesus em Nazaré",
+                    "explicacao": "Jesus lê Isaías e afirma que a profecia se cumpre nele. Ele se apresenta como libertador dos oprimidos. O Reino de Deus tem impacto espiritual e social."
+                },
+                {
+                    "versiculos": "22–30",
+                    "titulo": "Rejeição em Nazaré",
+                    "explicacao": "O povo se ofende com Jesus por conhecê-lo desde pequeno. A familiaridade gera incredulidade. A verdade é rejeitada quando confronta expectativas pessoais.\nAlerta: rejeitar a verdade por orgulho limita milagres."
+                },
+                {
+                    "versiculos": "31–37",
+                    "titulo": "Autoridade sobre espíritos malignos",
+                    "explicacao": "Jesus expulsa um demônio com autoridade. Sua palavra não é apenas ensino, é poder em ação."
+                },
+                {
+                    "versiculos": "38–41",
+                    "titulo": "Curas em Cafarnaum",
+                    "explicacao": "Jesus cura muitos enfermos. Ele demonstra compaixão constante, não apenas atos pontuais."
+                },
+                {
+                    "versiculos": "42–44",
+                    "titulo": "Missão prioritária",
+                    "explicacao": "Jesus não se prende à fama. Ele deixa multidões para continuar pregando. Missão é mais importante que popularidade."
+                }
+            ],
+            "sintese": [
+                "Tentação faz parte da jornada espiritual",
+                "A Palavra de Deus é arma contra o engano",
+                "Verdade confronta expectativas humanas",
+                "Autoridade espiritual vem da obediência",
+                "Missão é maior que reconhecimento"
+            ]
+        },
+        {
+            "numero": 5,
+            "titulo": "Evangelho de Lucas — Capítulo 5",
+            "intro": "Explicação completa dos versículos 1–39",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Pesca milagrosa e chamado de Pedro",
+                    "explicacao": "Pedro experimenta um milagre após obedecer a Jesus. Reconhece sua indignidade, mas é chamado mesmo assim. Deus chama pessoas imperfeitas, não prontas.\nPró: obediência gera transformação.\nAlerta: medo e autodepreciação podem atrasar o chamado."
+                },
+                {
+                    "versiculos": "12–16",
+                    "titulo": "Cura de um leproso",
+                    "explicacao": "Jesus toca o impuro, quebrando barreiras sociais e religiosas. Ele restaura dignidade antes mesmo da aceitação social."
+                },
+                {
+                    "versiculos": "17–26",
+                    "titulo": "Cura do paralítico",
+                    "explicacao": "Jesus perdoa pecados antes de curar o corpo. A maior necessidade humana é espiritual, não física."
+                },
+                {
+                    "versiculos": "27–32",
+                    "titulo": "Chamado de Levi",
+                    "explicacao": "Jesus chama um cobrador de impostos. Mostra que o Reino é para os rejeitados. Religião que exclui não reflete o coração de Deus."
+                },
+                {
+                    "versiculos": "33–39",
+                    "titulo": "Jejum e o novo vinho",
+                    "explicacao": "Jesus ensina que o Reino não cabe em estruturas antigas. Mudança espiritual exige mente renovada.\nAlerta: apego ao passado impede crescimento."
+                }
+            ],
+            "sintese": [
+                "Deus chama pessoas comuns",
+                "Misericórdia precede julgamento",
+                "Perdão é maior que milagre físico",
+                "O Reino inclui os rejeitados",
+                "Renovação exige abandono do velho"
+            ]
+        },
+        {
+            "numero": 6,
+            "titulo": "Evangelho de Lucas — Capítulo 6",
+            "intro": "Explicação completa dos versículos 1–49",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Jesus e o sábado",
+                    "explicacao": "Jesus confronta o legalismo. O sábado foi feito para o bem do homem. Religião sem compaixão perde o propósito."
+                },
+                {
+                    "versiculos": "12–16",
+                    "titulo": "Escolha dos doze apóstolos",
+                    "explicacao": "Jesus ora antes de escolher. Decisões importantes exigem vida de oração, não impulsividade."
+                },
+                {
+                    "versiculos": "17–19",
+                    "titulo": "Curas e libertações",
+                    "explicacao": "O poder de Jesus alcança multidões. Ele atende necessidades físicas e espirituais."
+                },
+                {
+                    "versiculos": "20–26",
+                    "titulo": "Bem-aventuranças e ais",
+                    "explicacao": "Jesus inverte valores humanos. O Reino favorece humildes e alerta os autossuficientes. Prosperidade sem Deus é vazia."
+                },
+                {
+                    "versiculos": "27–36",
+                    "titulo": "Amor aos inimigos",
+                    "explicacao": "Jesus ensina um amor antinatural, que rompe ciclos de ódio. É um dos ensinos mais difíceis do evangelho.\nAlerta: esse amor exige maturidade espiritual real."
+                },
+                {
+                    "versiculos": "37–42",
+                    "titulo": "Julgar e perdoar",
+                    "explicacao": "Jesus ensina autoavaliação antes de criticar. Hipocrisia espiritual cega."
+                },
+                {
+                    "versiculos": "43–45",
+                    "titulo": "Árvore e seus frutos",
+                    "explicacao": "O caráter se revela nas atitudes. Palavras não sustentam uma fé sem frutos."
+                },
+                {
+                    "versiculos": "46–49",
+                    "titulo": "Casa sobre a rocha",
+                    "explicacao": "Ouvir sem praticar leva à ruína. Obediência constrói uma fé resistente às crises."
+                }
+            ],
+            "sintese": [
+                "Misericórdia supera legalismo",
+                "Oração precede decisões sábias",
+                "Valores do Reino confrontam o mundo",
+                "Amor verdadeiro exige sacrifício",
+                "Obediência sustenta a fé nas crises"
+            ]
+        },
+        {
+            "numero": 7,
+            "titulo": "Evangelho de Lucas — Capítulo 7",
+            "intro": "Explicação completa dos versículos 1–50",
+            "blocos": [
+                {
+                    "versiculos": "1–10",
+                    "titulo": "A fé do centurião",
+                    "explicacao": "Um oficial romano demonstra fé extraordinária ao reconhecer a autoridade de Jesus sem exigir Sua presença física. Ele entende autoridade espiritual melhor que muitos religiosos.\nPró: fé humilde e confiante move o coração de Deus.\nAlerta: posição religiosa não garante fé verdadeira."
+                },
+                {
+                    "versiculos": "11–17",
+                    "titulo": "Ressurreição do filho da viúva de Naim",
+                    "explicacao": "Jesus se compadece de uma mulher sem esperança social e emocional. Ele interrompe o cortejo fúnebre e devolve a vida.\nPró: Deus age movido por compaixão, não apenas por pedidos.\nAlerta: sem Cristo, a morte (em todas as formas) domina."
+                },
+                {
+                    "versiculos": "18–23",
+                    "titulo": "A dúvida de João Batista",
+                    "explicacao": "João, agora preso, questiona se Jesus é realmente o Messias. Jesus responde com fatos, não com acusações.\nPró: dúvidas podem coexistir com fé genuína.\nAlerta: sofrimento prolongado pode abalar expectativas."
+                },
+                {
+                    "versiculos": "24–30",
+                    "titulo": "Testemunho de Jesus sobre João",
+                    "explicacao": "Jesus honra João publicamente, mostrando que dúvida não anula um chamado verdadeiro.\nPró: Deus vê além dos momentos de fraqueza."
+                },
+                {
+                    "versiculos": "31–35",
+                    "titulo": "A geração insatisfeita",
+                    "explicacao": "Jesus denuncia pessoas que nunca estão satisfeitas, criticam tudo e não se comprometem com nada.\nAlerta: espírito crítico constante é sinal de imaturidade espiritual."
+                },
+                {
+                    "versiculos": "36–50",
+                    "titulo": "A mulher pecadora perdoada",
+                    "explicacao": "Uma mulher demonstra amor profundo porque foi muito perdoada. Os religiosos julgam, Jesus restaura.\nPró: quem entende o perdão ama mais.\nAlerta: religiosidade sem misericórdia endurece o coração."
+                }
+            ],
+            "sintese": [
+                "Fé verdadeira reconhece autoridade espiritual",
+                "Deus se move por compaixão",
+                "Dúvidas não anulam a fé, mas exigem maturidade",
+                "Julgamento religioso afasta da graça",
+                "Perdão gera amor profundo"
+            ]
+        },
+        {
+            "numero": 8,
+            "titulo": "Evangelho de Lucas — Capítulo 8",
+            "intro": "Explicação completa dos versículos 1–56",
+            "blocos": [
+                {
+                    "versiculos": "1–3",
+                    "titulo": "Mulheres no ministério de Jesus",
+                    "explicacao": "Lucas destaca mulheres que sustentavam o ministério. O Reino valoriza quem serve, não o status social.\nPró: Deus inclui e valoriza os marginalizados."
+                },
+                {
+                    "versiculos": "4–15",
+                    "titulo": "Parábola do semeador",
+                    "explicacao": "A Palavra é a mesma, mas os corações são diferentes. Fruto depende da perseverança.\nAlerta: emoção inicial não sustenta fé duradoura."
+                },
+                {
+                    "versiculos": "16–18",
+                    "titulo": "A candeia",
+                    "explicacao": "A verdade precisa ser vivida e revelada. Responsabilidade cresce com o conhecimento recebido."
+                },
+                {
+                    "versiculos": "19–21",
+                    "titulo": "A verdadeira família de Jesus",
+                    "explicacao": "Laços espirituais são definidos pela obediência, não apenas pelo sangue."
+                },
+                {
+                    "versiculos": "22–25",
+                    "titulo": "Jesus acalma a tempestade",
+                    "explicacao": "Os discípulos têm fé, mas entram em pânico. Crises revelam o nível real de confiança.\nAlerta: conhecer Jesus não elimina o medo automaticamente."
+                },
+                {
+                    "versiculos": "26–39",
+                    "titulo": "O endemoninhado gadareno",
+                    "explicacao": "Jesus liberta um homem, mas a cidade prefere perder Jesus a perder seus bens.\nPró: libertação é completa.\nAlerta: apego material pode rejeitar a salvação."
+                },
+                {
+                    "versiculos": "40–48",
+                    "titulo": "A mulher com fluxo de sangue",
+                    "explicacao": "Fé silenciosa e perseverante toca Jesus. He valoriza fé pessoal, não exposição pública."
+                },
+                {
+                    "versiculos": "49–56",
+                    "titulo": "Ressurreição da filha de Jairo",
+                    "explicacao": "Jesus ensina a não desistir mesmo diante da morte. Fé precisa resistir às más notícias."
+                }
+            ],
+            "sintese": [
+                "Deus valoriza quem serve fielmente",
+                "O coração define o fruto espiritual",
+                "Crises revelam a fé real",
+                "Libertação exige renúncia",
+                "Fé perseverante vence o impossível"
+            ]
+        },
+        {
+            "numero": 9,
+            "titulo": "Evangelho de Lucas — Capítulo 9",
+            "intro": "Explicação completa dos versículos 1–62",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Envio dos doze",
+                    "explicacao": "Jesus delega autoridade. Missão exige dependência total de Deus.\nAlerta: confiar em recursos próprios enfraquece a missão."
+                },
+                {
+                    "versiculos": "7–9",
+                    "titulo": "Herodes confuso sobre Jesus",
+                    "explicacao": "Consciência culpada gera medo espiritual. Poder sem arrependimento não traz paz."
+                },
+                {
+                    "versiculos": "10–17",
+                    "titulo": "Multiplicação dos pães",
+                    "explicacao": "Jesus supre necessidades quando os discípulos entregam o pouco que têm.\nPró: Deus multiplica o que é oferecido com fé."
+                },
+                {
+                    "versiculos": "18–20",
+                    "titulo": "Confissão de Pedro",
+                    "explicacao": "Pedro reconhece Jesus como o Cristo. É revelação divina, não lógica humana."
+                },
+                {
+                    "versiculos": "21–27",
+                    "titulo": "Primeiro anúncio da cruz",
+                    "explicacao": "Jesus deixa claro que segui-lo envolve renúncia e sofrimento.\nAlerta: cristianismo sem cruz é incompleto."
+                },
+                {
+                    "versiculos": "28–36",
+                    "titulo": "Transfiguração",
+                    "explicacao": "A glória de Jesus é revelada. A fé é fortalecida antes do sofrimento."
+                },
+                {
+                    "versiculos": "37–43",
+                    "titulo": "Cura do menino endemoninhado",
+                    "explicacao": "A falta de fé dos discípulos contrasta com o poder de Jesus. Dependência espiritual é essencial."
+                },
+                {
+                    "versiculos": "44–45",
+                    "titulo": "Segundo anúncio da morte",
+                    "explicacao": "Os discípulos não compreendem. Resistência humana ao sofrimento ainda persiste."
+                },
+                {
+                    "versiculos": "46–48",
+                    "titulo": "Quem é o maior",
+                    "explicacao": "Jesus redefine grandeza como humildade e serviço."
+                },
+                {
+                    "versiculos": "49–50",
+                    "titulo": "Tolerância espiritual",
+                    "explicacao": "Nem todos que fazem o bem pertencem ao mesmo grupo. Exclusivismo enfraquece o Reino."
+                },
+                {
+                    "versiculos": "51–62",
+                    "titulo": "O custo de seguir Jesus",
+                    "explicacao": "Seguir Jesus exige prioridade absoluta. Meias decisões não sustentam o discipulado.\nAlerta: seguir olhando para trás impede avanço espiritual."
+                }
+            ],
+            "sintese": [
+                "Missão exige dependência total de Deus",
+                "Deus multiplica o que entregamos",
+                "A cruz é parte do discipulado",
+                "Grandeza é servir",
+                "Seguir Jesus exige prioridade absoluta"
+            ]
+        }
+    ]
+}

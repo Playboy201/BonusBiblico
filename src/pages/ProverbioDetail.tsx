@@ -70,6 +70,25 @@ export function ProverbioDetail({ proverbio, onBack }: ProverbioDetailProps) {
                         </div>
                     ))}
                 </div>
+
+                {/* Síntese do Capítulo */}
+                {proverbio.sintese && proverbio.sintese.length > 0 && (
+                    <div className="mt-12 mb-8">
+                        <div className="bg-purple-50 dark:bg-purple-900/20 rounded-2xl p-6 md:p-8 border border-purple-100 dark:border-purple-800/30">
+                            <h3 className="text-xl font-bold text-purple-900 dark:text-purple-100 mb-6 flex items-center gap-2">
+                                <span className="text-2xl">💡</span> Síntese do Capítulo
+                            </h3>
+                            <ul className="space-y-4">
+                                {proverbio.sintese.map((item, index) => (
+                                    <li key={index} className="flex items-start gap-3 text-gray-700 dark:text-gray-300">
+                                        <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-purple-500 flex-shrink-0" />
+                                        <span className="text-lg">{item}</span>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    </div>
+                )}
             </main>
         </div>
     );

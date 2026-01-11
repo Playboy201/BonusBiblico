@@ -32,8 +32,47 @@ export interface Proverbio {
   titulo: string;
   intro: string;
   blocos: BlocoExplicacao[];
+  sintese?: string[];
 }
 
 export interface ProverbiosData {
   proverbios: Proverbio[];
 }
+
+export interface Mateus {
+  numero: number;
+  titulo: string;
+  intro: string;
+  blocos: BlocoExplicacao[];
+  sintese?: string[];
+}
+
+export interface MateusData {
+  capitulos: Mateus[];
+}
+
+export interface Marcos {
+  numero: number;
+  titulo: string;
+  intro: string;
+  blocos: BlocoExplicacao[];
+  sintese?: string[];
+}
+
+export interface MarcosData {
+  capitulos: Marcos[];
+}
+
+export interface Lucas {
+  numero: number;
+  titulo: string;
+  intro: string;
+  blocos: BlocoExplicacao[];
+  sintese?: string[];
+}
+
+export interface LucasData {
+  capitulos: Lucas[];
+}
+
+export type Category = 'salmos' | 'proverbios' | 'mateus' | 'marcos' | 'lucas' | 'antigo-testamento' | 'novo-testamento' | 'colecao-ouro' | null;

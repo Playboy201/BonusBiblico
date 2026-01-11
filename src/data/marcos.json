@@ -1,0 +1,676 @@
+{
+    "livro": "Marcos",
+    "titulo": "Evangelho de Marcos Explicado",
+    "descricao": "Explicações detalhadas de cada capítulo do Evangelho de Marcos, focando na ação, autoridade e serviço de Jesus como o Servo Sofredor.",
+    "capitulos": [
+        {
+            "numero": 1,
+            "titulo": "Evangelho de Marcos — Capítulo 1",
+            "intro": "Explicação completa dos versículos 1–45",
+            "blocos": [
+                {
+                    "versiculos": "1–8",
+                    "titulo": "A pregação de João Batista",
+                    "explicacao": "Marcos começa rapidamente com a missão de João Batista, que prepara o caminho para Jesus. João foca no arrependimento e aponta para Alguém mais poderoso que batizará com o Espírito Santo. Mostra que a preparação espiritual precede a revelation de Deus."
+                },
+                {
+                    "versiculos": "9–13",
+                    "titulo": "Batismo e tentação",
+                    "explicacao": "Jesus é batizado e imediatamente levado ao deserto para ser tentado. O batismo confirma Sua identidade como Filho amado, enquanto a tentação mostra Sua vitória sobre o mal desde o início. A vida cristã envolve tanto afirmação divina quanto desafios espirituais."
+                },
+                {
+                    "versiculos": "14–20",
+                    "titulo": "Início do ministério e chamado",
+                    "explicacao": "Jesus anuncia que o Reino de Deus está próximo e chama os primeiros discípulos. Ele convida pescadores comuns a se tornarem 'pescadores de homens'. O chamado de Jesus exige uma resposta imediata e uma mudança de prioridades."
+                },
+                {
+                    "versiculos": "21–34",
+                    "titulo": "Autoridade sobre o mal e doenças",
+                    "explicacao": "Em Cafarnaum, Jesus demonstra autoridade ao ensinar e ao expulsar um espírito imundo. Ele também cura a sogra de Pedro e muitos outros. Sua autoridade não é apenas teórica, mas prática e libertadora."
+                },
+                {
+                    "versiculos": "35–45",
+                    "titulo": "Oração e expansão da missão",
+                    "explicacao": "Jesus busca solitude para orar, mostrando que a ação deve ser sustentada pela comunhão com o Pai. Ele continua pregando e cura um leproso, pedindo silêncio para focar na mensagem, não apenas nos milagres."
+                }
+            ],
+            "sintese": [
+                "Preparação espiritual é essencial",
+                "Jesus é o Filho amado e vitorioso",
+                "O Reino exige arrependimento e decisão",
+                "A autoridade de Cristo é prática e libertadora",
+                "A oração sustenta a missão"
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "Evangelho de Marcos — Capítulo 2",
+            "intro": "Explicação completa dos versículos 1–28",
+            "blocos": [
+                {
+                    "versiculos": "1–12",
+                    "titulo": "Cura e perdão do paralítico",
+                    "explicacao": "Jesus cura um paralítico, mas primeiro perdoa seus pecados. Isso causa conflito com os líderes religiosos, pois Jesus reivindica autoridade divina. Ele mostra que a restoration espiritual é a base para a cura física."
+                },
+                {
+                    "versiculos": "13–17",
+                    "titulo": "O chamado de Levi",
+                    "explicacao": "Jesus chama um cobrador de impostos e come com pecadores. Ele afirma que veio para os doentes, não para os que se acham saudáveis. O Reino de Deus é inclusivo e focado naqueles que reconhecem sua necessidade."
+                },
+                {
+                    "versiculos": "18–22",
+                    "titulo": "Questão sobre o jejum",
+                    "explicacao": "Jesus ensina que Sua presença traz uma nova realidade que não cabe em velhas tradições (odres novos para vinho novo). A fé em Cristo exige uma mentalidade renovada, não apenas rituais repetitivos."
+                },
+                {
+                    "versiculos": "23–28",
+                    "titulo": "Senhor do Sábado",
+                    "explicacao": "Jesus defende Seus discípulos ao colherem espigas no sábado. Ele ensina que o sábado foi feito para o homem, e não o contrário. Como Filho do Homem, Ele tem autoridade sobre as leis religiosas para priorizar a vida e a misericórdia."
+                }
+            ],
+            "sintese": [
+                "Perdão é a cura mais profunda",
+                "Jesus busca os que reconhecem sua fragilidade",
+                "O Reino exige renovação de mentalidade",
+                "Misericórdia é superior ao ritualismo",
+                "Jesus tem autoridade divina sobre a lei"
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "Evangelho de Marcos — Capítulo 3",
+            "intro": "Explicação completa dos versículos 1–35",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Cura no sábado e oposição",
+                    "explicacao": "Jesus cura um homem com a mão ressequida no sábado. A dureza de coração dos líderes religiosos os leva a conspirar contra Ele. Mostra que o legalismo pode cegar as pessoas para o bem e para a compaixão."
+                },
+                {
+                    "versiculos": "7–12",
+                    "titulo": "Multidões e reconhecimento espiritual",
+                    "explicacao": "Grandes multidões seguem Jesus. Até os espíritos imundos O reconhecem como Filho de Deus. A fama de Jesus cresce, mas Ele mantém o foco na Sua missão e identidade."
+                },
+                {
+                    "versiculos": "13–19",
+                    "titulo": "Escolha dos doze apóstolos",
+                    "explicacao": "Jesus chama doze homens para estarem com Ele e para serem enviados a pregar. Ele escolhe pessoas comuns para uma tarefa extraordinária, mostrando que a capacitação vem do relacionamento com Ele."
+                },
+                {
+                    "versiculos": "20–30",
+                    "titulo": "Confronto sobre a fonte do poder",
+                    "explicacao": "Alguns dizem que Jesus expulsa demônios pelo poder do mal. Jesus mostra a ilógica disso e alerta sobre a blasfêmia contra o Espírito Santo — a rejeição consciente e persistente da obra de Deus."
+                },
+                {
+                    "versiculos": "31–35",
+                    "titulo": "A verdadeira família de Jesus",
+                    "explicacao": "Jesus redefine família: Seus verdadeiros parentes são aqueles que fazem a vontade de Deus. Os laços espirituais baseados na obediência são mais profundos que os laços de sangue."
+                }
+            ],
+            "sintese": [
+                "O legalismo endurece o coração",
+                "A identidade de Jesus é reconhecida no world espiritual",
+                "O chamado exige proximidade e missão",
+                "Rejeitar a obra de Deus é um perigo espiritual",
+                "Obediência define nossa conexão com Cristo"
+            ]
+        },
+        {
+            "numero": 4,
+            "titulo": "Evangelho de Marcos — Capítulo 4",
+            "intro": "Explicação completa dos versículos 1–41",
+            "blocos": [
+                {
+                    "versiculos": "1–9",
+                    "titulo": "Parábola do semeador",
+                    "explicacao": "Jesus ensina que a Palavra de Deus é a semente, mas os resultados dependem do tipo de coração que a recebe. Nem todos estão preparados para frutificar espiritualmente."
+                },
+                {
+                    "versiculos": "10–20",
+                    "titulo": "Explicação da parábola",
+                    "explicacao": "Jesus mostra que distrações, superficialidade e preocupações sufocam a fé. Apenas quem persevera produz frutos duradouros. O Reino exige constância, não emoção momentânea."
+                },
+                {
+                    "versiculos": "21–25",
+                    "titulo": "A candeia e a medida",
+                    "explicacao": "A verdade não foi feita para ser escondida. Quem ouve e pratica recebe mais entendimento; quem rejeita perde até o pouco que tem. Responsabilidade cresce com a revelação recebida."
+                },
+                {
+                    "versiculos": "26–29",
+                    "titulo": "Parábola da semente que cresce",
+                    "explicacao": "O crescimento espiritual acontece de forma gradual e soberana. O ser humano participa, mas Deus é quem dá o crescimento."
+                },
+                {
+                    "versiculos": "30–32",
+                    "titulo": "Parábola do grão de mostarda",
+                    "explicacao": "O Reino começa pequeno, mas cresce de forma surpreendente. Deus age além das expectativas humanas."
+                },
+                {
+                    "versiculos": "33–34",
+                    "titulo": "Ensino por parábolas",
+                    "explicacao": "Jesus adapta a mensagem à capacidade do povo. Revela paciência divina e ensino progressivo."
+                },
+                {
+                    "versiculos": "35–41",
+                    "titulo": "Jesus acalma a tempestade",
+                    "explicacao": "Mesmo com fé inicial, os discípulos entram em pânico. Jesus revela autoridade sobre a natureza e questiona a falta de confiança. Fé é testada nas crises."
+                }
+            ],
+            "sintese": [
+                "O coração determina o impacto da Palavra",
+                "Crescimento espiritual é progressivo",
+                "Revelação gera responsabilidade",
+                "O Reino cresce além do visível",
+                "Crises revelam o nível real da fé"
+            ]
+        },
+        {
+            "numero": 5,
+            "titulo": "Evangelho de Marcos — Capítulo 5",
+            "intro": "Explicação completa dos versículos 1–43",
+            "blocos": [
+                {
+                    "versiculos": "1–20",
+                    "titulo": "O endemoninhado gadareno",
+                    "explicacao": "Jesus liberta um homem dominado por muitos demônios. A transformação é total, mas a população prefere perder Jesus a perder seus bens. Revela que libertação espiritual nem sempre é bem-vinda."
+                },
+                {
+                    "versiculos": "21–24",
+                    "titulo": "Pedido de Jairo",
+                    "explicacao": "Um líder religioso reconhece sua necessidade e busca Jesus. Mostra humildade diante da dor e fé em ação."
+                },
+                {
+                    "versiculos": "25–34",
+                    "titulo": "A mulher com fluxo de sangue",
+                    "explicacao": "Mesmo marginalizada, ela crê e toca em Jesus. A fé sincera rompe barreiras sociais e religiosas. Jesus valoriza fé pessoal, não posição social."
+                },
+                {
+                    "versiculos": "35–43",
+                    "titulo": "Ressurreição da filha de Jairo",
+                    "explicacao": "Jesus demonstra poder sobre a morte. Ensina que fé deve permanecer mesmo quando tudo parece perdido."
+                }
+            ],
+            "sintese": [
+                "Jesus tem autoridade total sobre forças espirituais",
+                "Libertação pode gerar rejeição social",
+                "Fé pessoal supera barreiras",
+                "Esperança não deve morrer com as circunstâncias",
+                "Cristo transforma completamente quem se rende"
+            ]
+        },
+        {
+            "numero": 6,
+            "titulo": "Evangelho de Marcos — Capítulo 6",
+            "intro": "Explicação completa dos versículos 1–56",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Rejeição em Nazaré",
+                    "explicacao": "Jesus é rejeitado por aqueles que o conheciam. A familiaridade gera incredulidade. A falta de fé limita a manifestação do poder de Deus."
+                },
+                {
+                    "versiculos": "7–13",
+                    "titulo": "Envio dos doze discípulos",
+                    "explicacao": "Jesus envia os discípulos com autoridade e simplicidade. Dependência de Deus é essencial para a missão."
+                },
+                {
+                    "versiculos": "14–29",
+                    "titulo": "Morte de João Batista",
+                    "explicacao": "João é executado por denunciar o pecado. A verdade confronta o poder humano, mas tem custo alto. Integridade nem sempre é recompensada neste mundo."
+                },
+                {
+                    "versiculos": "30–44",
+                    "titulo": "Multiplicação dos pães",
+                    "explicacao": "Jesus alimenta a multidão. Ensina que quando oferecemos o pouco, Deus multiplica. Também revela compaixão e provisão divina."
+                },
+                {
+                    "versiculos": "45–52",
+                    "titulo": "Jesus anda sobre o mar",
+                    "explicacao": "Mesmo após o milagre, os discípulos ainda não compreendem totalmente quem Jesus é. O medo revela compreensão limitada da fé."
+                },
+                {
+                    "versiculos": "53–56",
+                    "titulo": "Curas em Genesaré",
+                    "explicacao": "Onde Jesus passa, vidas são transformadas. Até o toque na orla de suas vestes gera cura, mostrando poder acessível pela fé."
+                }
+            ],
+            "sintese": [
+                "Incredulidade limita experiências espirituais",
+                "Missão exige dependência de Deus",
+                "Verdade tem custo e pode gerar perseguição",
+                "Deus multiplica o que é entregue com fé",
+                "Fé precisa amadurecer continuamente"
+            ]
+        },
+        {
+            "numero": 7,
+            "titulo": "Evangelho de Marcos — Capítulo 7",
+            "intro": "Explicação completa dos versículos 1–37",
+            "blocos": [
+                {
+                    "versiculos": "1–13",
+                    "titulo": "Tradição humana versus mandamento de Deus",
+                    "explicacao": "Jesus confronta os fariseus por colocarem tradições acima da Palavra de Deus. Mostra que religiosidade externa pode anular a obediência verdadeira. O risco é honrar a Deus com palavras, mas não com o coração."
+                },
+                {
+                    "versiculos": "14–23",
+                    "titulo": "O que realmente contamina o homem",
+                    "explicacao": "Jesus ensina que a impureza não vem de fora, mas do interior. Maus pensamentos, orgulho e egoísmo revelam um coração distante de Deus. A mudança precisa ser interna, não apenas comportamental."
+                },
+                {
+                    "versiculos": "24–30",
+                    "titulo": "A mulher siro-fenícia",
+                    "explicacao": "Mesmo sendo estrangeira, essa mulher demonstra fé e humildade. Jesus mostra que o Reino não é limitado por etnia ou status. Fé perseverante rompe barreiras."
+                },
+                {
+                    "versiculos": "31–37",
+                    "titulo": "Cura de um surdo e gago",
+                    "explicacao": "Jesus cura de forma pessoal e cuidadosa. O milagre mostra compaixão e restauração completa. Onde Jesus age, há transformação visível."
+                }
+            ],
+            "sintese": [
+                "Tradições podem afastar da verdade",
+                "A raiz do pecado está no coração",
+                "Fé perseverante supera barreiras",
+                "Deus valoriza humildade sincera",
+                "Transformação verdadeira é interior"
+            ]
+        },
+        {
+            "numero": 8,
+            "titulo": "Evangelho de Marcos — Capítulo 8",
+            "intro": "Explicação completa dos versículos 1–38",
+            "blocos": [
+                {
+                    "versiculos": "1–9",
+                    "titulo": "Multiplicação dos pães para quatro mil",
+                    "explicacao": "Jesus alimenta outra multidão. Mostra cuidado contínuo e ensina que a compaixão de Deus não é limitada. Ele supre necessidades físicas e espirituais."
+                },
+                {
+                    "versiculos": "10–13",
+                    "titulo": "Pedido de sinal",
+                    "explicacao": "Os fariseus pedem um sinal, apesar de já terem visto milagres. Jesus denuncia incredulidade disfarçada de religiosidade. Exigir provas constantes revela coração endurecido."
+                },
+                {
+                    "versiculos": "14–21",
+                    "titulo": "O fermento dos fariseus",
+                    "explicacao": "Jesus alerta sobre influência corrupta do legalismo e da hipocrisia. Mesmo após milagres, os discípulos ainda não compreendem totalmente. A fé pode existir sem maturidade."
+                },
+                {
+                    "versiculos": "22–26",
+                    "titulo": "Cura do cego de Betsaida",
+                    "explicacao": "A cura acontece in duas etapas. Mostra que crescimento espiritual pode ser gradual e que Deus trabalha processos, não apenas eventos instantâneos."
+                },
+                {
+                    "versiculos": "27–30",
+                    "titulo": "Confissão de Pedro",
+                    "explicacao": "Pedro reconhece Jesus como o Cristo. É um ponto alto da revelação, mas ainda incompleto, pois ele não compreende totalmente a missão do Messias."
+                },
+                {
+                    "versiculos": "31–33",
+                    "titulo": "Primeiro anúncio da morte de Jesus",
+                    "explicacao": "Jesus fala da cruz; Pedro rejeita a ideia. Mostra o conflito entre expectativas humanas e o plano de Deus."
+                },
+                {
+                    "versiculos": "34–38",
+                    "titulo": "O custo do discipulado",
+                    "explicacao": "Seguir Jesus exige renúncia, perda e entrega. Ganhar o mundo e perder a alma é fracasso total. Fé verdadeira tem custo real."
+                }
+            ],
+            "sintese": [
+                "Deus supre necessidades com compaixão",
+                "Incredulidade pode se esconder na religião",
+                "Crescimento espiritual é progressivo",
+                "Reconhecer Jesus exige entendimento profundo",
+                "Discipulado envolve renúncia e sacrifício"
+            ]
+        },
+        {
+            "numero": 9,
+            "titulo": "Evangelho de Marcos — Capítulo 9",
+            "intro": "Explicação completa dos versículos 1–50",
+            "blocos": [
+                {
+                    "versiculos": "1–13",
+                    "titulo": "Transfiguração",
+                    "explicacao": "Jesus revela sua glória diante de Pedro, Tiago e João. Moisés e Elias aparecem, confirmando a missão divina. Mostra que Jesus é mais que um mestre: Ele é o Filho glorioso de Deus."
+                },
+                {
+                    "versiculos": "14–29",
+                    "titulo": "Cura de um menino possesso",
+                    "explicacao": "Os discípulos falham por falta de oração. Jesus ensina que algumas batalhas espirituais exigem dependência profunda de Deus. Fé fraca limita resultados."
+                },
+                {
+                    "versiculos": "30–32",
+                    "titulo": "Segundo anúncio da morte",
+                    "explicacao": "Jesus reforça que sofrer faz parte do plano. Os discípulos ainda não compreendem totalmente, revelando resistência humana à ideia de sacrifício."
+                },
+                {
+                    "versiculos": "33–37",
+                    "titulo": "Quem é o maior",
+                    "explicacao": "Os discípulos discutem sobre grandeza. Jesus ensina que humildade e serviço definem verdadeira liderança no Reino de Deus."
+                },
+                {
+                    "versiculos": "38–41",
+                    "titulo": "Quem não é contra nós é por nós",
+                    "explicacao": "Jesus ensina tolerância e maturidade espiritual. Exclusivismo religioso gera divisão desnecessária."
+                },
+                {
+                    "versiculos": "42–50",
+                    "titulo": "Advertência contra o pecado",
+                    "explicacao": "Jesus fala com seriedade sobre escândalo e pecado. Ensina que eliminar o que afasta de Deus é essencial, mesmo que seja doloroso. Santidade exige decisões firmes."
+                }
+            ],
+            "sintese": [
+                "Jesus é glorioso e divino",
+                "Dependência espiritual é indispensável",
+                "O caminho da cruz é inevitável",
+                "Grandeza no Reino é servir",
+                "Santidade exige renúncia consciente"
+            ]
+        },
+        {
+            "numero": 10,
+            "titulo": "Evangelho de Marcos — Capítulo 10",
+            "intro": "Explicação completa dos versículos 1–52",
+            "blocos": [
+                {
+                    "versiculos": "1–12",
+                    "titulo": "Ensino sobre o divórcio",
+                    "explicacao": "Jesus ensina que o plano original de Deus é a fidelidade no casamento. Ele confronta a dureza do coração humano. O ensino é elevado e desafiador, mostrando que amor verdadeiro exige compromisso e responsabilidade."
+                },
+                {
+                    "versiculos": "13–16",
+                    "titulo": "Jesus e as crianças",
+                    "explicacao": "As crianças representam dependência e simplicidade. Jesus ensina que o Reino pertence a quem confia sem orgulho. A fé adulta muitas vezes se complica por excesso de controle e ego."
+                },
+                {
+                    "versiculos": "17–31",
+                    "titulo": "O jovem rico",
+                    "explicacao": "O jovem deseja a vida eterna, mas não abre mão de suas riquezas. Jesus revela que apego material pode impedir a entrega total. Não é a riqueza em si, mas o coração preso a ela."
+                },
+                {
+                    "versiculos": "32–34",
+                    "titulo": "Terceiro anúncio da morte de Jesus",
+                    "explicacao": "Jesus reafirma que o caminho da cruz é inevitável. Mesmo sabendo do sofrimento, Ele segue obediente ao plano de Deus."
+                },
+                {
+                    "versiculos": "35–45",
+                    "titulo": "O pedido de Tiago e João",
+                    "explicacao": "Eles buscam posição e glória. Jesus ensina que grandeza no Reino é servir. Poder espiritual é serviço sacrificial, não status."
+                },
+                {
+                    "versiculos": "46–52",
+                    "titulo": "Cura do cego Bartimeu",
+                    "explicacao": "Bartimeu clama com fé persistente. Diferente do jovem rico, ele deixa tudo para seguir Jesus. Fé verdadeira reconhece necessidade e responde prontamente."
+                }
+            ],
+            "sintese": [
+                "O Reino exige compromisso e fidelidade",
+                "Simplicidade fortalece a fé",
+                "Apego material pode impedir a salvação",
+                "O caminho da cruz é consciente e voluntário",
+                "Grandeza espiritual é servir com humildade"
+            ]
+        },
+        {
+            "numero": 11,
+            "titulo": "Evangelho de Marcos — Capítulo 11",
+            "intro": "Explicação completa dos versículos 1–33",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Entrada triunfal em Jerusalém",
+                    "explicacao": "Jesus entra como Rei, mas de forma humilde. O povo celebra, mas não compreende totalmente o tipo de Reino que Ele traz. Expectativas humanas frequentemente distorcem a fé."
+                },
+                {
+                    "versiculos": "12–14",
+                    "titulo": "A figueira amaldiçoada",
+                    "explicacao": "A figueira sem frutos simboliza religiosidade sem vida espiritual. Aparência sem transformação não agrada a Deus."
+                },
+                {
+                    "versiculos": "15–19",
+                    "titulo": "Purificação do templo",
+                    "explicacao": "Jesus confronta a corrupção religiosa. O templo havia se tornado um centro de exploração. Fé sem reverência perde seu propósito."
+                },
+                {
+                    "versiculos": "20–26",
+                    "titulo": "Lição da figueira e fé verdadeira",
+                    "explicacao": "Jesus ensina sobre fé, oração e perdão. A fé eficaz exige relacionamento com Deus e coração limpo de rancor."
+                },
+                {
+                    "versiculos": "27–33",
+                    "titulo": "Autoridade questionada",
+                    "explicacao": "Os líderes religiosos questionam Jesus, mas não buscam a verdade. Quem teme perder poder evita compromisso com Deus."
+                }
+            ],
+            "sintese": [
+                "Jesus é Rei, mas não político",
+                "Religiosidade sem frutos é inútil",
+                "Deus rejeita fé exploradora",
+                "Oração exige fé e perdão",
+                "Autoridade verdadeira vem de Deus"
+            ]
+        },
+        {
+            "numero": 12,
+            "titulo": "Evangelho de Marcos — Capítulo 12",
+            "intro": "Explicação completa dos versículos 1–44",
+            "blocos": [
+                {
+                    "versiculos": "1–12",
+                    "titulo": "Parábola dos lavradores maus",
+                    "explicacao": "Jesus denuncia a rejeição contínua dos enviados de Deus. A parábola revela julgamento sobre líderes infiéis e responsabilidade espiritual crescente."
+                },
+                {
+                    "versiculos": "13–17",
+                    "titulo": "O tributo a César",
+                    "explicacao": "Jesus ensina equilíbrio entre dever civil e fidelidade a Deus. Nem submissão cega, nem rebeldia religiosa. Deus exige o coração."
+                },
+                {
+                    "versiculos": "18–27",
+                    "titulo": "Discussão sobre a ressurreição",
+                    "explicacao": "Os saduceus negam a ressurreição. Jesus revela que Deus é Deus de vivos, não de mortos. Ignorar o poder de Deus limita a fé."
+                },
+                {
+                    "versiculos": "28–34",
+                    "titulo": "O maior mandamento",
+                    "explicacao": "Amar a Deus e ao próximo resume toda a Lei. Religião sem amor perde o sentido."
+                },
+                {
+                    "versiculos": "35–37",
+                    "titulo": "O Cristo, filho de Davi",
+                    "explicacao": "Jesus revela sua identidade messiânica superior. Ele não é apenas descendente humano, mas Senhor."
+                },
+                {
+                    "versiculos": "38–40",
+                    "titulo": "Advertência contra os escribas",
+                    "explicacao": "Jesus denuncia líderes que buscam honra e exploram os vulneráveis. Aparência religiosa não substitui justiça."
+                },
+                {
+                    "versiculos": "41–44",
+                    "titulo": "A oferta da viúva pobre",
+                    "explicacao": "A viúva dá pouco em valor, mas tudo em sacrifício. Deus avalia intenção, não quantidade."
+                }
+            ],
+            "sintese": [
+                "Responsabilidade espiritual gera juízo",
+                "Fé deve ser equilibrada e consciente",
+                "Deus é Senhor da vida",
+                "Amor é o centro da fé",
+                "Deus vê o coração, não a aparência"
+            ]
+        },
+        {
+            "numero": 13,
+            "titulo": "Evangelho de Marcos — Capítulo 13",
+            "intro": "Explicação completa dos versículos 1–37",
+            "blocos": [
+                {
+                    "versiculos": "1–8",
+                    "titulo": "Destruição do templo e princípio das dores",
+                    "explicacao": "Jesus anuncia a destruição do templo. Guerras, terremotos e crises não são o fim, mas sinais de um mundo em colapso espiritual. Fé madura não se apoia em estruturas humanas."
+                },
+                {
+                    "versiculos": "9–13",
+                    "titulo": "Perseguições aos discípulos",
+                    "explicacao": "Seguir Jesus traz oposição. A fidelidade será testada, mas o Espírito Santo dará palavras e força. Perseverar é essencial."
+                },
+                {
+                    "versiculos": "14–23",
+                    "titulo": "Grande tribulação e engano espiritual",
+                    "explicacao": "Jesus alerta contra falsos cristos e falsas promessas. Em tempos de crise, o engano se intensifica. Discernimento é vital."
+                },
+                {
+                    "versiculos": "24–27",
+                    "titulo": "Vinda do Filho do Homem",
+                    "explicacao": "Cristo retornará com poder e glória. Não será oculto nem simbólico. A justiça final será estabelecida."
+                },
+                {
+                    "versiculos": "28–31",
+                    "titulo": "Parábola da figueira",
+                    "explicacao": "Os sinais indicam proximidade, mas não datas. A Palavra de Deus é mais segura que qualquer estrutura terrena."
+                },
+                {
+                    "versiculos": "32–37",
+                    "titulo": "Exortação à vigilância",
+                    "explicacao": "Ninguém sabe o dia nem a hora. Jesus chama à vigilância contínua. Fé não é expectativa passiva, mas vida consciente."
+                }
+            ],
+            "sintese": [
+                "Estruturas humanas são temporárias",
+                "A fé verdadeira enfrenta perseguição",
+                "Engano cresce em tempos difíceis",
+                "Cristo voltará com glória",
+                "Vigilância é responsabilidade diária"
+            ]
+        },
+        {
+            "numero": 14,
+            "titulo": "Evangelho de Marcos — Capítulo 14",
+            "intro": "Explicação completa dos versículos 1–72",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Unção em Betânia e traição de Judas",
+                    "explicacao": "Enquanto uma mulher honra Jesus com amor sacrificial, Judas o trai por dinheiro. Revela dois tipos de coração diante de Cristo."
+                },
+                {
+                    "versiculos": "12–26",
+                    "titulo": "A Última Ceia",
+                    "explicacao": "Jesus institui a Ceia como memória do sacrifício. O pão e o cálice representam entrega total e nova aliança."
+                },
+                {
+                    "versiculos": "27–31",
+                    "titulo": "Predição da negação de Pedro",
+                    "explicacao": "Pedro confia em si mesmo e falha. Autoconfiança excessiva precede quedas espirituais."
+                },
+                {
+                    "versiculos": "32–42",
+                    "titulo": "Getsêmani",
+                    "explicacao": "Jesus enfrenta profunda angústia, mas se submete à vontade do Pai. A oração sustenta a obediência."
+                },
+                {
+                    "versiculos": "43–52",
+                    "titulo": "Traição e prisão",
+                    "explicacao": "Jesus é entregue com um beijo. Violência humana tenta interromper o plano divino, mas falha."
+                },
+                {
+                    "versiculos": "53–65",
+                    "titulo": "Julgamento religioso",
+                    "explicacao": "Falsas acusações revelam injustiça e cegueira espiritual. A verdade é condenada."
+                },
+                {
+                    "versiculos": "66–72",
+                    "titulo": "Negação de Pedro",
+                    "explicacao": "Pedro nega Jesus três vezes. O arrependimento mostra que fracasso não é o fim quando há humildade."
+                }
+            ],
+            "sintese": [
+                "Amor verdadeiro envolve sacrifício",
+                "Religião sem verdade gera traição",
+                "Autoconfiança enfraquece a fé",
+                "Oração sustenta a obediência",
+                "Arrependimento abre caminho à restauração"
+            ]
+        },
+        {
+            "numero": 15,
+            "titulo": "Evangelho de Marcos — Capítulo 15",
+            "intro": "Explicação completa dos versículos 1–47",
+            "blocos": [
+                {
+                    "versiculos": "1–15",
+                    "titulo": "Jesus diante de Pilatos",
+                    "explicacao": "Pilatos reconhece a inocência de Jesus, mas cede à pressão. Justiça humana falha diante do medo."
+                },
+                {
+                    "versiculos": "16–20",
+                    "titulo": "Escárnio dos soldados",
+                    "explicacao": "Jesus é humilhado e zombado. O sofrimento expõe a crueldade humana e a mansidão de Cristo."
+                },
+                {
+                    "versiculos": "21–32",
+                    "titulo": "Crucificação",
+                    "explicacao": "Jesus é crucificado entre criminosos. Mesmo rejeitado, cumpre sua missão. O amor vai até o fim."
+                },
+                {
+                    "versiculos": "33–39",
+                    "titulo": "Morte de Jesus",
+                    "explicacao": "A morte de Cristo rasga o véu do templo. O acesso a Deus agora é direto. Um centurião reconhece: “Verdadeiramente este homem era o Filho de Deus”."
+                },
+                {
+                    "versiculos": "40–47",
+                    "titulo": "Sepultamento",
+                    "explicacao": "Jesus é sepultado com dignidade. A morte é real, preparando o cenário da ressurreição."
+                }
+            ],
+            "sintese": [
+                "Justiça humana é falha",
+                "O sofrimento revela amor sacrificial",
+                "Cristo assume o lugar do pecador",
+                "A cruz abre acesso a Deus",
+                "A missão é cumprida até o fim"
+            ]
+        },
+        {
+            "numero": 16,
+            "titulo": "Evangelho de Marcos — Capítulo 16",
+            "intro": "Explicação completa dos versículos 1–20",
+            "blocos": [
+                {
+                    "versiculos": "1–8",
+                    "titulo": "Ressurreição",
+                    "explicacao": "O túmulo está vazio. Jesus venceu a morte. O medo inicial das mulheres revela o impacto do sobrenatural."
+                },
+                {
+                    "versiculos": "9–11",
+                    "titulo": "Aparição a Maria Madalena",
+                    "explicacao": "Jesus se revela primeiro a quem o amava e o seguia fielmente. O testemunho é desacreditado, mostrando resistência humana à verdade."
+                },
+                {
+                    "versiculos": "12–14",
+                    "titulo": "Aparições aos discípulos",
+                    "explicacao": "Jesus confronta incredulidade e dureza de coração. A fé precisa amadurecer mesmo após experiências anteriores."
+                },
+                {
+                    "versiculos": "15–18",
+                    "titulo": "A Grande Comissão",
+                    "explicacao": "Os discípulos são enviados ao mundo. O evangelho exige proclamação, ação e compromisso."
+                },
+                {
+                    "versiculos": "19–20",
+                    "titulo": "Ascensão",
+                    "explicacao": "Jesus sobe aos céus e continua agindo através dos discípulos. A missão não termina, apenas muda de forma."
+                }
+            ],
+            "sintese": [
+                "A ressurreição confirma a vitória de Cristo",
+                "Incredulidade pode persistir mesmo diante da verdade",
+                "A missão é global e contínua",
+                "Cristo age através dos seus seguidores",
+                "O evangelho não termina, continua em ação"
+            ]
+        }
+    ]
+}
