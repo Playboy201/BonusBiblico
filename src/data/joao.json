@@ -1,0 +1,766 @@
+{
+    "livro": "João",
+    "titulo": "Evangelho de João Explicado",
+    "descricao": "Explicações detalhadas de cada capítulo do Evangelho de João, focando na divindade de Cristo e na vida eterna.",
+    "capitulos": [
+        {
+            "numero": 1,
+            "titulo": "Evangelho de João — Capítulo 1",
+            "intro": "Explicação completa dos versículos 1–51",
+            "blocos": [
+                {
+                    "versiculos": "1–5",
+                    "titulo": "O Verbo Eterno",
+                    "explicacao": "João começa apresentando Jesus como o Verbo (Logos) que estava com Deus e era Deus desde o princípio. Ele é a fonte da vida e a luz que as trevas não podem apagar. Isso estabelece a divindade absoluta de Cristo e sua preexistência."
+                },
+                {
+                    "versiculos": "6–13",
+                    "titulo": "O Testemunho de João e a Rejeição",
+                    "explicacao": "João Batista veio como testemunha da luz. O mundo, criado por Ele, não o reconheceu, mas a todos que o receberam, Ele deu o poder de serem feitos filhos de Deus. A filiação divina não é por mérito humano, mas por vontade de Deus."
+                },
+                {
+                    "versiculos": "14–18",
+                    "titulo": "O Verbo se fez Carne",
+                    "explicacao": "A encarnação é o mistério central: Deus se tornou humano para habitar entre nós, cheio de graça e verdade. A Lei veio por Moisés, mas a graça e a verdade vieram por Jesus Cristo, o único que revelou o Pai plenamente."
+                },
+                {
+                    "versiculos": "19–34",
+                    "titulo": "O Cordeiro de Deus",
+                    "explicacao": "João Batista identifica Jesus como o Cordeiro de Deus que tira o pecado do mundo. Ele reconhece que Jesus é superior e que o batismo com o Espírito Santo é a marca do Messias."
+                },
+                {
+                    "versiculos": "35–51",
+                    "titulo": "Os Primeiros Discípulos",
+                    "explicacao": "Jesus começa a chamar seus seguidores. O convite 'Vinde e vede' mostra que a fé em Cristo nasce da experiência pessoal e do encontro direto com Ele. Jesus revela conhecimento sobrenatural sobre Natanael, confirmando sua identidade divina."
+                }
+            ],
+            "sintese": [
+                "Jesus é Deus preexistente e eterno",
+                "A luz de Cristo vence as trevas",
+                "Tornar-se filho de Deus exige receber a Cristo",
+                "Jesus é o Cordeiro que tira o pecado",
+                "O encontro com Jesus transforma a identidade"
+            ]
+        },
+        {
+            "numero": 2,
+            "titulo": "Evangelho de João — Capítulo 2",
+            "intro": "Explicação completa dos versículos 1–25",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "O Primeiro Milagre: Casamento em Caná",
+                    "explicacao": "Jesus transforma água em vinho, revelando sua glória. Este sinal mostra que Ele veio trazer alegria e abundância onde os recursos humanos falham. Maria demonstra confiança total: 'Fazei tudo o que ele vos disser'."
+                },
+                {
+                    "versiculos": "12–22",
+                    "titulo": "A Purificação do Templo",
+                    "explicacao": "Jesus expulsa os mercadores do Templo, denunciando a corrupção religiosa. Ele aponta para o seu próprio corpo como o verdadeiro Templo que seria destruído e reconstruído em três dias (ressurreição)."
+                },
+                {
+                    "versiculos": "23–25",
+                    "titulo": "Jesus conhece o coração humano",
+                    "explicacao": "Muitos creram por causa dos sinais, mas Jesus não se confiava a eles porque conhecia a natureza inconstante do coração humano. A fé baseada apenas em milagres pode ser superficial."
+                }
+            ],
+            "sintese": [
+                "Jesus transforma escassez em abundância",
+                "Obediência precede o milagre",
+                "Zelo pela casa de Deus é essencial",
+                "O corpo de Cristo é o novo Templo",
+                "Jesus discerne a fé real da superficial"
+            ]
+        },
+        {
+            "numero": 3,
+            "titulo": "Evangelho de João — Capítulo 3",
+            "intro": "Explicação completa dos versículos 1–36",
+            "blocos": [
+                {
+                    "versiculos": "1–15",
+                    "titulo": "O Novo Nascimento",
+                    "explicacao": "Jesus ensina a Nicodemos que para ver o Reino de Deus é necessário nascer de novo (do Espírito). A vida espiritual não é herdada nem conquistada por religiosidade, mas é uma obra soberana de Deus."
+                },
+                {
+                    "versiculos": "16–21",
+                    "titulo": "O Amor de Deus e o Julgamento",
+                    "explicacao": "João 3:16 resume o Evangelho: o amor de Deus enviando seu Filho para salvar. A condenação não é desejo de Deus, mas escolha daqueles que preferem as trevas à luz para esconder suas obras."
+                },
+                {
+                    "versiculos": "22–30",
+                    "titulo": "João Batista: 'Convém que Ele cresça'",
+                    "explicacao": "João Batista demonstra humildade exemplar ao reconhecer que sua missão era preparar o caminho. Ele se alegra com o sucesso de Jesus, ensinando que o verdadeiro servo busca a glória do Mestre, não a sua."
+                },
+                {
+                    "versiculos": "31–36",
+                    "titulo": "Aquele que vem do Alto",
+                    "explicacao": "Jesus é apresentado como superior a todos porque vem do céu e fala as palavras de Deus. Aquele que crê no Filho tem a vida eterna; aquele que o rejeita permanece sob o juízo."
+                }
+            ],
+            "sintese": [
+                "O novo nascimento é essencial para o Reino",
+                "A salvação é fruto do amor sacrificial de Deus",
+                "A luz confronta o pecado e exige escolha",
+                "Humildade é a marca do verdadeiro servo",
+                "A vida eterna depende da resposta a Jesus"
+            ]
+        },
+        {
+            "numero": 4,
+            "titulo": "Evangelho de João — Capítulo 4",
+            "intro": "Explicação completa dos versículos 1–54",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "Jesus e a Decisão de Passar por Samaria",
+                    "explicacao": "Jesus decide passar por Samaria, uma região evitada pelos judeus. Essa escolha não é geográfica, mas espiritual: revela que a salvação não se limita a barreiras culturais, religiosas ou étnicas. Jesus se mostra cansado fisicamente, destacando sua humanidade."
+                },
+                {
+                    "versiculos": "7–26",
+                    "titulo": "A Mulher Samaritana e a Água Viva",
+                    "explicacao": "No diálogo com a mulher, Jesus rompe preconceitos e revela conhecer profundamente sua vida. Ele oferece a 'água viva', simbolizando a vida eterna que satisfaz plenamente a alma. A revelação messiânica é direta: Jesus afirma claramente que Ele é o Cristo."
+                },
+                {
+                    "versiculos": "27–30",
+                    "titulo": "Transformação e Testemunho",
+                    "explicacao": "A mulher, antes marginalizada, torna-se testemunha. Seu encontro com Jesus gera mudança imediata e missão. Ela deixa o cântaro, simbolizando que sua antiga busca foi substituída por algo maior."
+                },
+                {
+                    "versiculos": "31–38",
+                    "titulo": "O Alimento Espiritual",
+                    "explicacao": "Jesus ensina que sua verdadeira comida é fazer a vontade do Pai. Ele revela que a obra de Deus exige visão espiritual: a colheita já está pronta, e os discípulos são chamados a participar dela."
+                },
+                {
+                    "versiculos": "39–54",
+                    "titulo": "Fé dos Samaritanos e Cura do Filho do Oficial",
+                    "explicacao": "Os samaritanos creem não apenas pelo testemunho da mulher, mas pela palavra de Jesus. A cura à distância do filho do oficial demonstra que a fé verdadeira confia na palavra de Cristo antes mesmo de ver o resultado."
+                }
+            ],
+            "sintese": [
+                "Jesus rompe barreiras culturais e religiosas",
+                "Somente Cristo satisfaz a sede espiritual",
+                "O encontro com Jesus gera testemunho",
+                "A verdadeira adoração é em espírito e verdade",
+                "A fé confia na palavra de Jesus"
+            ]
+        },
+        {
+            "numero": 5,
+            "titulo": "Evangelho de João — Capítulo 5",
+            "intro": "Explicação completa dos versículos 1–47",
+            "blocos": [
+                {
+                    "versiculos": "1–9",
+                    "titulo": "A Cura no Tanque de Betesda",
+                    "explicacao": "Jesus cura um homem enfermo há 38 anos, mostrando compaixão e autoridade. Ele não depende de rituais ou superstição; sua palavra é suficiente para restaurar completamente."
+                },
+                {
+                    "versiculos": "10–18",
+                    "titulo": "Conflito sobre o Sábado",
+                    "explicacao": "A cura ocorre no sábado, gerando conflito com os líderes judeus. Jesus revela que o sábado não limita a ação de Deus e declara sua igualdade com o Pai, intensificando a oposição religiosa."
+                },
+                {
+                    "versiculos": "19–30",
+                    "titulo": "A Autoridade do Filho",
+                    "explicacao": "Jesus afirma que tudo o que o Pai faz, o Filho também faz. Ele possui autoridade para dar vida e julgar, evidenciando sua divindade e papel central na salvação."
+                },
+                {
+                    "versiculos": "31–40",
+                    "titulo": "Testemunhos sobre Jesus",
+                    "explicacao": "Jesus apresenta múltiplas testemunhas: João Batista, suas obras, o Pai e as Escrituras. Ainda assim, muitos recusam vir a Ele para receber vida."
+                },
+                {
+                    "versiculos": "41–47",
+                    "titulo": "A Condenação da Incredulidade",
+                    "explicacao": "Jesus denuncia a busca por glória humana e revela que Moisés, em quem confiavam, testemunha contra eles, pois escreveu a respeito do Messias."
+                }
+            ],
+            "sintese": [
+                "Jesus tem autoridade sobre a enfermidade",
+                "A religião sem fé pode cegar",
+                "O Filho age em perfeita unidade com o Pai",
+                "As Escrituras apontam para Cristo",
+                "Rejeitar Jesus é rejeitar a vida"
+            ]
+        },
+        {
+            "numero": 6,
+            "titulo": "Evangelho de João — Capítulo 6",
+            "intro": "Explicação completa dos versículos 1–71",
+            "blocos": [
+                {
+                    "versiculos": "1–15",
+                    "titulo": "A Multiplicação dos Pães",
+                    "explicacao": "Jesus alimenta uma grande multidão, revelando seu poder criador. O milagre aponta para algo maior: Ele é a provisão de Deus para a fome física e espiritual."
+                },
+                {
+                    "versiculos": "16–21",
+                    "titulo": "Jesus Anda sobre o Mar",
+                    "explicacao": "Jesus demonstra autoridade sobre a natureza. Sua presença remove o medo e conduz os discípulos em meio ao caos, revelando que Ele é soberano mesmo nas tempestades."
+                },
+                {
+                    "versiculos": "22–40",
+                    "titulo": "O Pão da Vida",
+                    "explicacao": "Jesus declara ser o pão que desceu do céu. Ele confronta uma fé baseada apenas em milagres e chama o povo a crer nEle como a fonte da vida eterna."
+                },
+                {
+                    "versiculos": "41–59",
+                    "titulo": "Um Ensino Difícil",
+                    "explicacao": "A linguagem simbólica sobre comer sua carne e beber seu sangue escandaliza muitos. Jesus ensina que somente quem participa espiritualmente de sua vida tem comunhão com Deus."
+                },
+                {
+                    "versiculos": "60–71",
+                    "titulo": "Abandono e Confissão de Fé",
+                    "explicacao": "Muitos abandonam Jesus por não aceitarem seus ensinos. Pedro confessa: 'Tu tens as palavras de vida eterna'. A verdadeira fé permanece mesmo quando não entende tudo."
+                }
+            ],
+            "sintese": [
+                "Jesus é a provisão completa de Deus",
+                "Cristo domina a natureza e o caos",
+                "A fé verdadeira vai além dos milagres",
+                "Nem todos aceitam o ensino de Jesus",
+                "Somente Cristo tem palavras de vida eterna"
+            ]
+        },
+        {
+            "numero": 7,
+            "titulo": "Evangelho de João — Capítulo 7",
+            "intro": "Explicação completa dos versículos 1–53",
+            "blocos": [
+                {
+                    "versiculos": "1–13",
+                    "titulo": "A Incredulidade dos Irmãos de Jesus",
+                    "explicacao": "Jesus permanece na Galileia evitando a Judeia, onde os líderes procuram matá-lo. Seus próprios irmãos não creem nele e o desafiam a se manifestar publicamente na Festa dos Tabernáculos. Jesus responde que seu tempo ainda não chegou, mas o tempo deles está sempre pronto porque o mundo não os odeia. Ele sobe à festa secretamente, enquanto há divisão entre o povo sobre sua identidade."
+                },
+                {
+                    "versiculos": "14–24",
+                    "titulo": "Jesus Ensina no Templo",
+                    "explicacao": "No meio da festa, Jesus ensina abertamente no templo. Os judeus se admiram de seu conhecimento sem educação formal. Jesus explica que sua doutrina não é sua, mas daquele que o enviou. Ele confronta a hipocrisia religiosa deles: acusam-no de violar o sábado curando, mas eles mesmos circuncidam no sábado. Jesus os convoca a julgar com justiça, não pela aparência."
+                },
+                {
+                    "versiculos": "25–36",
+                    "titulo": "Será Este o Cristo?",
+                    "explicacao": "O povo de Jerusalém questiona se Jesus é realmente o Messias, argumentando que conhecem sua origem, enquanto a origem do Cristo seria misteriosa. Jesus proclama que eles não o conhecem verdadeiramente nem ao Pai que o enviou. As autoridades tentam prendê-lo, mas sua hora ainda não havia chegado. Jesus declara que em breve partirá para onde eles não podem ir, gerando confusão sobre seu destino."
+                },
+                {
+                    "versiculos": "37–44",
+                    "titulo": "Rios de Água Viva",
+                    "explicacao": "No último e grande dia da festa, Jesus convida os sedentos a virem a ele e beberem. Ele promete que rios de água viva fluirão do interior de quem crê nele — uma referência ao Espírito Santo que seria dado após sua glorificação. Isso causa nova divisão: alguns o reconhecem como profeta ou Cristo, outros rejeitam por sua origem galileia, ignorando que ele nasceu em Belém."
+                },
+                {
+                    "versiculos": "45–53",
+                    "titulo": "A Resistência das Autoridades",
+                    "explicacao": "Os guardas enviados para prender Jesus retornam de mãos vazias, impressionados: 'Jamais alguém falou como este homem'. Os fariseus os repreende e desprezam a multidão como ignorante da lei. Nicodemos tenta defendê-lo, questionando se é justo condenar alguém sem ouvi-lo primeiro, mas é ridicularizado. Cada um volta para casa, evidenciando que a rejeição oficial continua apesar das evidências."
+                }
+            ],
+            "sintese": [
+                "O tempo de Deus não é controlado por pressões humanas",
+                "A verdadeira doutrina vem do Pai, não de sistemas religiosos",
+                "Jesus é a fonte da água viva — o Espírito Santo",
+                "A origem de Jesus é tanto humilde quanto divina",
+                "A rejeição oficial não anula o impacto de suas palavras"
+            ]
+        },
+        {
+            "numero": 8,
+            "titulo": "Evangelho de João — Capítulo 8",
+            "intro": "Explicação completa dos versículos 1–59",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "A Mulher Apanhada em Adultério",
+                    "explicacao": "Os escribas e fariseus trazem uma mulher surpreendida em adultério, testando Jesus para acusá-lo. Se ele a perdoasse, violaria a Lei de Moisés; se ordenasse apedrejamento, contrariaria sua mensagem de misericórdia. Jesus responde sabiamente: 'Aquele que dentre vós está sem pecado seja o primeiro que atire pedra'. Todos se retiram, e Jesus não a condena, mas ordena: 'Vai e não peques mais'. Ele equilibra perfeitamente graça e santidade."
+                },
+                {
+                    "versiculos": "12–20",
+                    "titulo": "A Luz do Mundo",
+                    "explicacao": "Jesus declara ser a luz do mundo, prometendo que quem o segue não andará em trevas. Os fariseus contestam seu testemunho como inválido. Jesus responde que seu testemunho é verdadeiro porque sabe de onde veio e para onde vai, e que o Pai testifica com ele. Eles julgam segundo a carne; Jesus não julga assim, mas se julgar, seu juízo é verdadeiro porque não está só."
+                },
+                {
+                    "versiculos": "21–30",
+                    "titulo": "Para Onde Vou, Vós Não Podeis Ir",
+                    "explicacao": "Jesus anuncia sua partida e alerta que eles morrerão em seus pecados se não crerem que 'EU SOU'. Quando questionam 'Quem és tu?', ele responde que é aquilo que tem dito desde o princípio. Explica que quando levantarem o Filho do Homem (referência à crucificação), conhecerão que ele é o EU SOU e que nada faz por si mesmo, mas conforme o Pai ensinou. Muitos creem nele por essas palavras."
+                },
+                {
+                    "versiculos": "31–47",
+                    "titulo": "A Verdade Liberta",
+                    "explicacao": "Jesus promete aos que creem que a verdade os libertará. Os judeus protestam, alegando serem descendência de Abraão e nunca terem sido escravos. Jesus esclarece que fala da escravidão ao pecado e que somente o Filho pode libertar verdadeiramente. Embora sejam descendentes biológicos de Abraão, suas obras provam que seu pai espiritual é o diabo, homicida e pai da mentira desde o princípio. A verdade de Jesus expõe suas intenções assassinas."
+                },
+                {
+                    "versiculos": "48–59",
+                    "titulo": "Antes que Abraão Existisse, EU SOU",
+                    "explicacao": "Os judeus o acusam de ser samaritano e endemoninhado. Jesus responde que honra o Pai, e quem guarda sua palavra jamais verá a morte. Eles intensificam a acusação, pois Abraão e os profetas morreram. Jesus declara que Abraão se alegrou por ver seu dia. Quando questionam como ele, com menos de cinquenta anos, viu Abraão, Jesus pronuncia a mais alta declaração de divindade: 'Antes que Abraão existisse, EU SOU' — usando o nome divino de Êxodo 3:14. Tomam pedras para apedrejá-lo, mas Jesus se oculta e sai do templo."
+                }
+            ],
+            "sintese": [
+                "Jesus oferece misericórdia e transformação, não condenação",
+                "Seguir Cristo é andar na luz e escapar das trevas",
+                "A verdadeira liberdade vem da verdade de Cristo",
+                "A filiação espiritual se revela nas obras, não na genética",
+                "Jesus é o EU SOU eterno, preexistente a Abraão"
+            ]
+        },
+        {
+            "numero": 9,
+            "titulo": "Evangelho de João — Capítulo 9",
+            "intro": "Explicação completa dos versículos 1–41",
+            "blocos": [
+                {
+                    "versiculos": "1–12",
+                    "titulo": "A Cura do Cego de Nascença",
+                    "explicacao": "Jesus e os discípulos encontram um homem cego de nascença. Os discípulos perguntam se o pecado dele ou de seus pais causou a cegueira. Jesus rejeita essa teologia simplista: a cegueira existe para que as obras de Deus sejam manifestadas. Ele faz lodo com saliva, unta os olhos do cego e ordena que se lave no tanque de Siloé. O homem obedece e volta vendo. Seus vizinhos ficam espantados e divididos sobre sua identidade."
+                },
+                {
+                    "versiculos": "13–23",
+                    "titulo": "O Interrogatório dos Fariseus",
+                    "explicacao": "Levam o ex-cego aos fariseus, que descobrem que a cura ocorreu no sábado. Dividem-se: alguns dizem que Jesus não é de Deus por violar o sábado; outros questionam como um pecador faria tal sinal. Interrogam o homem, que responde simplesmente: 'Ele é profeta'. Não acreditando, chamam seus pais, que confirmam ser ele o filho cego de nascença, mas com medo de serem expulsos da sinagoga, recusam-se a dizer como foi curado."
+                },
+                {
+                    "versiculos": "24–34",
+                    "titulo": "A Corajosa Defesa do Ex-Cego",
+                    "explicacao": "Chamam o homem novamente, exigindo que dê glória a Deus e admita que Jesus é pecador. Ele responde com ironia brilhante: 'Se ele é pecador, não sei; uma coisa sei: eu era cego e agora vejo'. Quando pressionado sobre como aconteceu, responde sarcasticamente se querem se tornar discípulos também. Os fariseus o insultam, dizendo serem discípulos de Moisés. O homem argumenta logicamente: é extraordinário que não saibam de onde Jesus vem, quando ele abriu os olhos de um cego — algo nunca visto. Deus não ouve pecadores, mas quem o teme. Expulsam-no furiosamente."
+                },
+                {
+                    "versiculos": "35–38",
+                    "titulo": "A Revelação ao Que Foi Curado",
+                    "explicacao": "Jesus ouve que o homem foi expulso e o procura. Pergunta se ele crê no Filho de Deus. O homem, ainda sem saber quem é Jesus fisicamente, pergunta quem é para que creia nele. Jesus se revela: 'Tu já o viste, e é ele quem fala contigo'. O homem responde com adoração: 'Creio, Senhor' e o adora. Sua jornada da cegueira física à visão espiritual está completa."
+                },
+                {
+                    "versiculos": "39–41",
+                    "titulo": "A Cegueira Espiritual dos Fariseus",
+                    "explicacao": "Jesus declara ter vindo ao mundo para juízo: para que os que não veem vejam, e os que veem se tornem cegos. Os fariseus presentes perguntam se também são cegos. Jesus responde que se fossem cegos, não teriam pecado, mas porque dizem 'Nós vemos', seu pecado permanece. A cegueira espiritual voluntária é pior que a ignorância, pois rejeita deliberadamente a luz quando ela se manifesta."
+                }
+            ],
+            "sintese": [
+                "Nem todo sofrimento resulta de pecado pessoal",
+                "As obras de Deus se manifestam em situações impossíveis",
+                "A religiovidade pode cegar para a verdade evidente",
+                "Encontros com Jesus transformam vítimas em testemunhas",
+                "A maior cegueira é espiritual: recusar ver quando a luz se revela"
+            ]
+        },
+        {
+            "numero": 10,
+            "titulo": "Evangelho de João — Capítulo 10",
+            "intro": "Explicação completa dos versículos 1–42",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "A Parábola do Bom Pastor",
+                    "explicacao": "Jesus usa a metáfora do redil de ovelhas para contrastar líderes verdadeiros e falsos. Quem entra pela porta é o pastor legítimo; quem sobe por outro lugar é ladrão. As ovelhas conhecem a voz do verdadeiro pastor e o seguem, mas fogem de estranhos. Esta parábola é dirigida aos fariseus que expulsaram o cego curado, expondo sua falsa liderança. Eles não compreenderam o significado."
+                },
+                {
+                    "versiculos": "7–10",
+                    "titulo": "Jesus, a Porta das Ovelhas",
+                    "explicacao": "Jesus declara ser a porta das ovelhas. Todos que vieram antes dele (falsos messias e líderes corruptos) eram ladrões, mas as ovelhas verdadeiras não os ouviram. Quem entra por Jesus será salvo, entrará e sairá, e achará pastagens. O ladrão vem para roubar, matar e destruir; Jesus veio para que tenham vida abundante. Ele é o único acesso legítimo ao Pai e à salvação."
+                },
+                {
+                    "versiculos": "11–21",
+                    "titulo": "O Bom Pastor Dá a Vida",
+                    "explicacao": "Jesus se identifica como o bom pastor que dá sua vida pelas ovelhas, contrastando com o mercenário que abandona o rebanho diante do perigo. Ele conhece suas ovelhas intimamente, assim como o Pai o conhece. Declara ter outras ovelhas (gentios) que também ouvirão sua voz, formando um só rebanho com um só pastor. Sua morte é voluntária: ele tem poder para dar e retomar sua vida. Isso causa nova divisão: alguns o consideram endemoninhado e louco; outros reconhecem que suas palavras e obras não são de possesso."
+                },
+                {
+                    "versiculos": "22–30",
+                    "titulo": "Eu e o Pai Somos Um",
+                    "explicacao": "Durante a Festa da Dedicação, no inverno, Jesus caminha no pórtico de Salomão. Os judeus o cercam exigindo que declare abertamente se é o Cristo. Jesus responde que já disse e suas obras testificam, mas eles não creem porque não são de suas ovelhas. Suas ovelhas ouvem sua voz, ele as conhece, e elas o seguem. Ele lhes dá a vida eterna, e jamais perecerão; ninguém pode arrebatá-las de sua mão nem da mão do Pai. Então declara inequivocamente: 'Eu e o Pai somos um' — afirmando unidade de essência e propósito."
+                },
+                {
+                    "versiculos": "31–42",
+                    "titulo": "Tentativa de Apedrejamento",
+                    "explicacao": "Os judeus tomam pedras para apedrejá-lo. Jesus pergunta por qual boa obra querem matá-lo. Respondem que não é por obra, mas por blasfêmia: ele, sendo homem, se faz Deus. Jesus argumenta usando o Salmo 82, onde juízes são chamados 'deuses'. Se a Escritura chamou deuses aqueles a quem veio a palavra de Deus, como acusam de blasfêmia aquele que o Pai santificou e enviou ao mundo? Ele os desafia: se não faz as obras do Pai, não creiam; mas se faz, ainda que não creiam nele, creiam nas obras para reconhecerem que o Pai está nele e ele no Pai. Tentam prendê-lo novamente, mas ele escapa. Retira-se além do Jordão, onde João batizava, e muitos creem nele ali."
+                }
+            ],
+            "sintese": [
+                "Jesus é o único caminho legítimo para Deus",
+                "O verdadeiro pastor conhece intimamente suas ovelhas",
+                "A salvação em Cristo é eterna e segura",
+                "Jesus e o Pai compartilham a mesma essência divina",
+                "As obras de Jesus autenticam suas declarações"
+            ]
+        },
+        {
+            "numero": 11,
+            "titulo": "Evangelho de João — Capítulo 11",
+            "intro": "Explicação completa dos versículos 1–57",
+            "blocos": [
+                {
+                    "versiculos": "1–16",
+                    "titulo": "A Demora Intencional de Jesus",
+                    "explicacao": "Lázaro de Betânia, irmão de Maria e Marta, está doente. As irmãs mandam avisar Jesus: 'aquele que amas está enfermo'. Jesus responde que essa enfermidade não é para morte, mas para a glória de Deus. Surpreendentemente, ele permanece dois dias onde estava, mesmo amando aquela família. Depois anuncia que vai para a Judeia. Os discípulos o alertam sobre o perigo, mas Jesus fala de andar na luz. Declara que Lázaro dorme e ele vai despertá-lo. Os discípulos pensam em sono literal, mas Jesus clarifica: Lázaro morreu. E Jesus se alegra por não estar lá, para que creiam. Tomé, resignado ao perigo, diz: 'Vamos também para morrermos com ele'."
+                },
+                {
+                    "versiculos": "17–27",
+                    "titulo": "Eu Sou a Ressurreição e a Vida",
+                    "explicacao": "Chegando, Jesus encontra Lázaro sepultado há quatro dias. Marta vai ao encontro de Jesus e expressa sua fé condicional: 'Se estivesses aqui, meu irmão não teria morrido', mas ainda crê que Deus dará o que Jesus pedir. Jesus afirma que Lázaro ressuscitará. Marta responde com a esperança futura: 'na ressurreição do último dia'. Jesus então declara uma das mais profundas verdades do evangelho: 'Eu sou a ressurreição e a vida. Quem crê em mim, ainda que morra, viverá; e todo o que vive e crê em mim não morrerá eternamente'. Pergunta se ela crê nisso. Marta confessa: 'Sim, Senhor, creio que tu és o Cristo, o Filho de Deus que devia vir ao mundo'."
+                },
+                {
+                    "versiculos": "28–37",
+                    "titulo": "Jesus Chora",
+                    "explicacao": "Marta chama Maria secretamente. Quando Maria vê Jesus, cai a seus pés repetindo as mesmas palavras de Marta. Jesus vê Maria chorando e os judeus que a acompanham também chorando. Profundamente comovido em espírito e perturbado, pergunta onde o puseram. Vão mostrar-lhe e Jesus chora — o versículo mais curto da Bíblia em muitas traduções, mas de profunda significância. Alguns judeus interpretam como prova de seu amor por Lázaro; outros questionam por que aquele que abriu os olhos do cego não impediu a morte de Lázaro. Jesus compartilha genuinamente da dor humana, mesmo sabendo que em instantes a reverterá."
+                },
+                {
+                    "versiculos": "38–44",
+                    "titulo": "A Ressurreição de Lázaro",
+                    "explicacao": "Jesus, novamente comovido, chega ao túmulo — uma caverna com pedra sobre a entrada. Ordena que removam a pedra. Marta protesta: já há mau cheiro, pois faz quatro dias. Jesus lembra que se ela cresse, veria a glória de Deus. Removem a pedra. Jesus ora em voz alta, agradecendo ao Pai por ouvi-lo, explicando que ora assim para que os presentes creiam que o Pai o enviou. Então clama em alta voz: 'Lázaro, vem para fora!' O morto sai, com mãos e pés ligados e o rosto envolto. Jesus ordena: 'Desligai-o e deixai-o ir'. O sétimo e maior sinal no evangelho de João está consumado."
+                },
+                {
+                    "versiculos": "45–57",
+                    "titulo": "O Plano para Matar Jesus",
+                    "explicacao": "Muitos judeus que presenciaram o milagre creem em Jesus. Outros vão aos fariseus relatar o ocorrido. O Sinédrio se reúne alarmado: 'Que faremos? Este homem faz muitos sinais. Se o deixarmos, todos crerão nele, e virão os romanos destruir nosso lugar e nação'. Caifás, o sumo sacerdote, declara cinicamente que é conveniente que um homem morra pelo povo para que toda a nação não pereça. João comenta que isso foi profecia involuntária: Jesus morreria pela nação e pelos filhos de Deus dispersos. Daquele dia em diante conspiram para matá-lo. Jesus não anda mais abertamente entre os judeus, retirando-se para Efraim. A Páscoa se aproxima, e muitos procuram Jesus, questionando se virá à festa. As autoridades ordenam que qualquer que saiba onde ele está deve informá-los para o prenderem."
+                }
+            ],
+            "sintese": [
+                "Jesus permite provações para manifestar maior glória",
+                "Cristo não apenas dá vida — ele é a vida",
+                "Jesus compartilha autenticamente da dor humana",
+                "O maior sinal de Jesus intensifica a rejeição oficial",
+                "A morte de Jesus é tanto crime humano quanto plano divino"
+            ]
+        },
+        {
+            "numero": 12,
+            "titulo": "Evangelho de João — Capítulo 12",
+            "intro": "Explicação completa dos versículos 1–50",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Maria Unge Jesus",
+                    "explicacao": "Seis dias antes da Páscoa, Jesus vai a Betânia onde ressuscitou Lázaro. Fazem-lhe uma ceia; Marta serve e Lázaro está à mesa. Maria toma uma libra de nardo puro, caríssimo, unge os pés de Jesus e os enxuga com seus cabelos — a casa fica cheia do perfume. Judas Iscariotes protesta, argumentando que o perfume poderia ser vendido por trezentos denários e dado aos pobres. João revela que Judas não se importava com os pobres, mas era ladrão e roubava da bolsa que carregava. Jesus defende Maria: ela guardou o perfume para o dia de seu sepultamento; os pobres sempre estarão presentes, mas ele não. Grande multidão sabe que Jesus está ali e vem não só por ele, mas para ver Lázaro. Os principais sacerdotes planejam matar também Lázaro, pois por causa dele muitos judeus creem em Jesus."
+                },
+                {
+                    "versiculos": "12–19",
+                    "titulo": "A Entrada Triunfal",
+                    "explicacao": "No dia seguinte, grande multidão que viera à festa, sabendo que Jesus vem a Jerusalém, toma ramos de palmeiras e sai ao seu encontro, clamando: 'Hosana! Bendito o que vem em nome do Senhor, o Rei de Israel!' Jesus monta um jumentinho, cumprindo a profecia de Zacarias: 'Não temas, filha de Sião; eis que vem o teu Rei, montado em um jumentinho'. Os discípulos não compreenderam isso inicialmente, mas após Jesus ser glorificado, lembraram que isso estava escrito sobre ele. O povo que presenciou a ressurreição de Lázaro dá testemunho, e por isso a multidão o recebe. Os fariseus, derrotados, comentam entre si: 'Vede que nada aproveitais; o mundo inteiro vai após ele'."
+                },
+                {
+                    "versiculos": "20–36",
+                    "titulo": "O Grão de Trigo que Morre",
+                    "explicacao": "Alguns gregos que subiam para adorar na festa pedem a Filipe para ver Jesus. Jesus responde que chegou a hora de ser glorificado e apresenta o princípio do reino: o grão de trigo que cai na terra e não morre fica só; mas se morrer, produz muito fruto. Quem ama a vida a perde; quem odeia a vida neste mundo a guardará para a eternidade. Servir a Jesus é segui-lo e estar onde ele está. Jesus se turba, reconhecendo a hora de sua morte, mas afirma que para isso veio. Pede que o Pai glorifique seu nome. Vem uma voz do céu: 'Já o glorifiquei e ainda o glorificarei'. Uns pensam ser trovão, outros um anjo. Jesus explica que a voz veio por causa deles. Anuncia o julgamento do mundo e a expulsão de Satanás, e que sendo levantado na cruz, atrairá todos a si. A multidão questiona como o Cristo pode morrer se permanece para sempre. Jesus responde que a luz está entre eles por pouco tempo; devem andar nela para não serem surpreendidos pelas trevas. Depois se oculta."
+                },
+                {
+                    "versiculos": "37–43",
+                    "titulo": "A Incredulidade Persistente",
+                    "explicacao": "Apesar de tantos sinais, não creem nele, cumprindo a profecia de Isaías: 'Senhor, quem creu em nossa pregação?' e 'Cegou-lhes os olhos e endureceu-lhes o coração'. Isaías viu a glória de Cristo e falou dele. Contudo, muitos dos principais creram nele, mas não confessavam por medo dos fariseus e de serem expulsos da sinagoga, pois amavam mais a glória dos homens que a glória de Deus. Este é um dos diagnósticos mais tristes do evangelho: fé secreta motivada pelo medo da rejeição social."
+                },
+                {
+                    "versiculos": "44–50",
+                    "titulo": "O Último Apelo Público",
+                    "explicacao": "Jesus clama publicamente seu último convite: quem crê nele não crê apenas nele, mas naquele que o enviou. Quem o vê, vê o Pai. Ele veio como luz ao mundo para que quem crê não permaneça nas trevas. Não veio para julgar o mundo, mas para salvá-lo. Quem o rejeita tem quem o julgue: a palavra que anunciou o julgará no último dia. Jesus não falou por si mesmo; o Pai que o enviou ordenou o que dizer. E seu mandamento é vida eterna. Portanto, o que fala é exatamente como o Pai lhe disse. Este discurso encerra o ministério público de Jesus; os capítulos seguintes focam nos discípulos."
+                }
+            ],
+            "sintese": [
+                "A adoração extravagante a Jesus nunca é desperdício",
+                "Jesus entra como rei, mas seu trono será uma cruz",
+                "Morrer para si mesmo é o caminho para frutificar",
+                "A incredulidade persiste mesmo diante de evidências claras",
+                "Receber ou rejeitar Jesus é receber ou rejeitar o Pai"
+            ]
+        },
+        {
+            "numero": 13,
+            "titulo": "Evangelho de João — Capítulo 13",
+            "intro": "Explicação completa dos versículos 1–38",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "Jesus Lava os Pés dos Discípulos",
+                    "explicacao": "Antes da Festa da Páscoa, sabendo que sua hora chegou para passar deste mundo ao Pai, Jesus ama os seus até o fim. Durante a ceia, o diabo já havia colocado no coração de Judas traí-lo. Jesus, consciente de que o Pai lhe entregou tudo, levanta-se, tira as vestes, cinge-se com toalha e começa a lavar os pés dos discípulos. Pedro protesta: 'Nunca me lavarás os pés'. Jesus responde que se não o lavar, Pedro não terá parte com ele. Pedro então pede para lavar também mãos e cabeça. Jesus explica que quem está lavado não precisa lavar senão os pés. Esta lavagem simboliza humildade, serviço e purificação contínua — nem todos estão limpos, referência a Judas."
+                },
+                {
+                    "versiculos": "12–20",
+                    "titulo": "O Exemplo de Serviço",
+                    "explicacao": "Vestindo-se novamente, Jesus questiona se compreendem o que fez. Ele, sendo Mestre e Senhor, lavou seus pés, estabelecendo o padrão: devem lavar os pés uns dos outros. O servo não é maior que seu senhor, nem o enviado maior que quem o enviou. Sabendo essas coisas, bem-aventurados são se as praticarem. Jesus esclarece que não fala de todos — conhece os que escolheu — mas a Escritura deve cumprir-se: 'O que come pão comigo levantou contra mim seu calcanhar'. Ele revela isso antes de acontecer para que quando acontecer, creiam que ele é o EU SOU. Quem recebe aquele que Jesus enviar, recebe o próprio Jesus; e quem recebe Jesus, recebe o Pai."
+                },
+                {
+                    "versiculos": "21–30",
+                    "titulo": "A Identificação do Traidor",
+                    "explicacao": "Jesus se turba em espírito e testifica: 'Um de vós me trairá'. Os discípulos ficam perplexos, olhando uns para os outros. João, o discípulo amado, estava reclinado junto ao peito de Jesus. Pedro lhe faz sinal para perguntar quem é. João pergunta, e Jesus responde que é aquele a quem der o bocado molhado. Molha o bocado e o dá a Judas Iscariotes. Após receber o bocado, Satanás entra em Judas. Jesus ordena: 'O que fazes, faze-o depressa'. Ninguém à mesa compreende; pensam que Jesus mandou comprar algo para a festa ou dar aos pobres. Judas, tendo recebido o bocado, sai imediatamente. E era noite — um detalhe simbólico poderoso: trevas espirituais acompanham a traição."
+                },
+                {
+                    "versiculos": "31–35",
+                    "titulo": "O Novo Mandamento",
+                    "explicacao": "Após a saída de Judas, Jesus declara que agora o Filho do Homem é glorificado, e Deus é glorificado nele. Se Deus é glorificado nele, Deus também o glorificará em si mesmo e o glorificará imediatamente. Jesus chama os discípulos de 'filhinhos' ternamente e anuncia que estará com eles pouco tempo. Eles o buscarão, mas para onde vai, não podem ir agora. Então dá o novo mandamento: 'Que vos ameis uns aos outros; assim como eu vos amei'. Este amor mútuo será a marca identificadora dos discípulos de Cristo diante do mundo — não apenas pregação correta, mas amor prático e sacrificial."
+                },
+                {
+                    "versiculos": "36–38",
+                    "titulo": "A Negação de Pedro Predita",
+                    "explicacao": "Pedro pergunta para onde Jesus vai. Jesus responde que Pedro não pode segui-lo agora, mas depois o seguirá. Pedro, confiante em si mesmo, declara: 'Por que não posso seguir-te agora? Darei minha vida por ti'. Jesus responde com penetrante realismo: 'Darás a tua vida por mim? Em verdade te digo que o galo não cantará enquanto não me tiveres negado três vezes'. Esta predição humilhante revela tanto a fraqueza de Pedro quanto o conhecimento profético de Jesus. A autoconfiança de Pedro será quebrantada antes que ele possa ser usado poderosamente."
+                }
+            ],
+            "sintese": [
+                "Verdadeira grandeza se manifesta em serviço humilde",
+                "A traição acontece mesmo entre os escolhidos",
+                "Amar como Cristo amou é a marca do discípulo genuíno",
+                "Autoconfiança precede quedas — dependência de Deus é essencial",
+                "Jesus conhece nossas fraquezas antes que as manifestemos"
+            ]
+        },
+        {
+            "numero": 14,
+            "titulo": "Evangelho de João — Capítulo 14",
+            "intro": "Explicação completa dos versículos 1–31",
+            "blocos": [
+                {
+                    "versiculos": "1–6",
+                    "titulo": "O Caminho, a Verdade e a Vida",
+                    "explicacao": "Jesus consola os discípulos perturbados: 'Não se turbe vosso coração; credes em Deus, crede também em mim'. Promete preparar lugar para eles na casa do Pai, que tem muitas moradas. Ele vai preparar lugar e voltará para recebê-los, para que onde ele está, eles também estejam. Afirma que eles sabem o caminho para onde vai. Tomé questiona: não sabem para onde vai, como podem saber o caminho? Jesus responde com uma das declarações mais exclusivas do cristianismo: 'Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim'. Não há múltiplos caminhos para Deus — Jesus é o único mediador."
+                },
+                {
+                    "versiculos": "7–14",
+                    "titulo": "Ver Jesus é Ver o Pai",
+                    "explicacao": "Jesus declara que se o conhecessem, conheceriam também o Pai; e desde agora o conhecem e o viram. Filipe pede: 'Mostra-nos o Pai'. Jesus responde surpreso: 'Há tanto tempo estou convosco, e não me conheces, Filipe? Quem me vê a mim vê o Pai'. Jesus está no Pai e o Pai nele; suas palavras não são suas próprias, mas do Pai que habita nele e realiza as obras. Devem crer por suas palavras ou pelas obras. Jesus promete que quem nele crê fará as obras que ele faz, e maiores ainda, porque vai para o Pai. Tudo que pedirem em seu nome, ele fará, para que o Pai seja glorificado no Filho."
+                },
+                {
+                    "versiculos": "15–21",
+                    "titulo": "A Promessa do Espírito Santo",
+                    "explicacao": "Jesus liga obediência ao amor: 'Se me amais, guardareis meus mandamentos'. Promete rogar ao Pai que envie outro Consolador (Parácleto) para ficar eternamente com eles — o Espírito da verdade, que o mundo não pode receber porque não o vê nem conhece. Os discípulos o conhecem porque habita com eles e estará neles. Jesus promete não deixá-los órfãos; virá a eles. Pouco tempo e o mundo não mais o verá, mas eles o verão porque ele vive e eles viverão. Naquele dia conhecerão que Jesus está no Pai, eles em Jesus, e Jesus neles. Aquele que tem e guarda os mandamentos de Jesus é quem verdadeiramente o ama, e será amado pelo Pai; Jesus se manifestará a ele."
+                },
+                {
+                    "versiculos": "22–26",
+                    "titulo": "A Habitação do Pai e do Filho",
+                    "explicacao": "Judas (não o Iscariotes) pergunta como Jesus se manifestará aos discípulos e não ao mundo. Jesus responde que quem o ama guarda sua palavra, e o Pai o amará; Pai e Filho virão e farão nele morada. Quem não o ama não guarda suas palavras. A palavra que ouvem não é de Jesus, mas do Pai que o enviou. Jesus diz essas coisas estando ainda com eles. Promete que o Consolador, o Espírito Santo, que o Pai enviará em seu nome, ensinará todas as coisas e recordará tudo que Jesus disse. O Espírito continua a obra de ensino e revelação de Cristo."
+                },
+                {
+                    "versiculos": "27–31",
+                    "titulo": "Paz em Meio à Tribulação",
+                    "explicacao": "Jesus deixa a paz — não como o mundo dá, mas sua própria paz. Ordena novamente: 'Não se turbe vosso coração, nem se atemorize'. Se o amassem, alegrar-se-iam porque vai ao Pai, pois o Pai é maior que ele (referência à sua encarnação e missão, não à sua essência). Jesus revela essas coisas antes de acontecerem para que quando acontecerem, creiam. Não falará muito mais com eles, pois vem o príncipe deste mundo (Satanás), mas este nada tem nele — nenhum direito ou poder sobre Jesus. Tudo acontece para que o mundo saiba que Jesus ama o Pai e faz como o Pai ordenou. Jesus encerra: 'Levantai-vos, vamos daqui'."
+                }
+            ],
+            "sintese": [
+                "Jesus é o único caminho para chegar ao Pai",
+                "Ver e conhecer Jesus é ver e conhecer Deus",
+                "O Espírito Santo habita nos crentes e os ensina",
+                "Amar Jesus se manifesta em obediência, não emoção",
+                "A paz de Cristo transcende circunstâncias adversas"
+            ]
+        },
+        {
+            "numero": 15,
+            "titulo": "Evangelho de João — Capítulo 15",
+            "intro": "Explicação completa dos versículos 1–27",
+            "blocos": [
+                {
+                    "versiculos": "1–8",
+                    "titulo": "A Videira Verdadeira",
+                    "explicacao": "Jesus apresenta a alegoria da videira: 'Eu sou a videira verdadeira, e meu Pai é o agricultor'. Todo ramo que não dá fruto, o Pai corta; e todo que dá fruto, limpa para dar mais fruto. Os discípulos já estão limpos pela palavra. Devem permanecer em Jesus como o ramo na videira — sem essa união vital, não podem dar fruto. Quem não permanece é lançado fora, seca e é queimado. Permanecendo em Jesus e suas palavras neles, podem pedir o que quiserem e será feito. O Pai é glorificado quando dão muito fruto, provando serem discípulos de Jesus. Esta passagem enfatiza dependência absoluta e união orgânica com Cristo para vida espiritual frutífera."
+                },
+                {
+                    "versiculos": "9–17",
+                    "titulo": "Permanecer no Amor de Cristo",
+                    "explicacao": "Jesus declara que o Pai o amou, e ele amou os discípulos — devem permanecer nesse amor. Permanecem guardando seus mandamentos, assim como ele guarda os mandamentos do Pai e permanece em seu amor. Jesus fala isso para que seu gozo permaneça neles e o gozo seja completo. O mandamento é amarem-se uns aos outros como Jesus os amou. Ninguém tem maior amor que este: dar a vida pelos amigos. São amigos de Jesus se fazem o que ordena. Não os chama servos, pois o servo não sabe o que faz seu senhor; chama-os amigos porque revelou tudo que ouviu do Pai. Eles não escolheram Jesus; ele os escolheu e designou para darem fruto permanente. Tudo que pedirem ao Pai em nome de Jesus será concedido. Isso ordena: que se amem uns aos outros."
+                },
+                {
+                    "versiculos": "18–25",
+                    "titulo": "O Ódio do Mundo",
+                    "explicacao": "Jesus prepara os discípulos: se o mundo os odeia, saibam que primeiro odiou a ele. Se fossem do mundo, o mundo amaria o que é seu; mas porque Jesus os escolheu do mundo, o mundo os odeia. Devem lembrar que o servo não é maior que seu senhor: se perseguiram Jesus, também os perseguirão. Farão isso por causa do nome de Jesus, pois não conhecem aquele que o enviou. Se Jesus não tivesse vindo e falado, não teriam pecado; mas agora não têm desculpa. Quem odeia Jesus odeia também o Pai. Se não tivesse feito obras que nenhum outro fez, não teriam pecado; mas viram e odiaram tanto Jesus quanto o Pai, cumprindo a Escritura: 'Odiaram-me sem causa'."
+                },
+                {
+                    "versiculos": "26–27",
+                    "titulo": "O Testemunho do Espírito",
+                    "explicacao": "Jesus promete que quando vier o Consolador, que enviará do Pai — o Espírito da verdade que procede do Pai — esse testificará de Jesus. Os discípulos também devem testificar porque estão com ele desde o princípio. O Espírito Santo capacita e autentica o testemunho humano sobre Cristo. A testemunha humana ganha poder e autoridade pelo testemunho interior do Espírito Santo nos corações dos ouvintes. Esta obra conjunta — testemunho humano capacitado pelo divino — é o padrão para a evangelização em todas as eras."
+                }
+            ],
+            "sintese": [
+                "Frutificação espiritual depende de permanecer em Cristo",
+                "Obedecer não é condição para ser amado — é resposta ao amor",
+                "Jesus nos escolheu antes que pudéssemos escolhê-lo",
+                "Perseguição é consequência inevitável de seguir Cristo fielmente",
+                "O Espírito Santo capacita e autentica nosso testemunho"
+            ]
+        },
+        {
+            "numero": 16,
+            "titulo": "Evangelho de João — Capítulo 16",
+            "intro": "Explicação completa dos versículos 1–33",
+            "blocos": [
+                {
+                    "versiculos": "1–4",
+                    "titulo": "Advertência sobre Perseguições",
+                    "explicacao": "Jesus adverte os discípulos sobre perseguições futuras para que não se escandalizem. Serão expulsos das sinagogas, e chegará o tempo em que aqueles que os matarem pensarão estar prestando serviço a Deus. Farão isso porque não conhecem o Pai nem Jesus. Ele revela essas coisas antecipadamente para que quando a hora chegar, se lembrem de que foram advertidos. Não disse isso desde o princípio porque estava com eles, mas agora que parte, é necessário prepará-los para a realidade da oposição religiosa que enfrentarão."
+                },
+                {
+                    "versiculos": "5–15",
+                    "titulo": "A Obra do Espírito Santo",
+                    "explicacao": "Jesus vai para aquele que o enviou, mas ninguém pergunta para onde vai; em vez disso, a tristeza enche seus corações. Ele afirma ser conveniente que parta, pois se não for, o Consolador não virá; mas se for, o enviará. O Espírito convencerá o mundo do pecado (por não crerem em Jesus), da justiça (porque Jesus vai ao Pai e não o verão mais) e do juízo (porque o príncipe deste mundo já está julgado). Jesus tem ainda muito a dizer, mas eles não podem suportar agora. Quando vier o Espírito da verdade, guiará em toda a verdade, não falando de si mesmo, mas anunciando o que ouvir e as coisas futuras. O Espírito glorificará Jesus, recebendo do que é dele e anunciando aos discípulos. Tudo que o Pai tem é de Jesus; por isso disse que o Espírito recebe do que é dele."
+                },
+                {
+                    "versiculos": "16–24",
+                    "titulo": "A Tristeza se Converterá em Alegria",
+                    "explicacao": "Jesus declara enigmaticamente: 'Um pouco e não mais me vereis; e outra vez um pouco e me vereis'. Os discípulos ficam confusos, perguntando-se entre si o que significa. Jesus, percebendo que querem interrogá-lo, explica através de uma metáfora: chorarão e lamentarão enquanto o mundo se alegrará; ficarão tristes, mas sua tristeza se converterá em alegria. Como a mulher em trabalho de parto tem dor, mas após dar à luz esquece a angústia pela alegria de nascer uma criança, assim eles têm tristeza agora, mas Jesus os verá novamente e seus corações se alegrarão com alegria que ninguém pode tirar. Naquele dia não perguntarão nada a Jesus; tudo que pedirem ao Pai em nome de Jesus será concedido. Até agora nada pediram em seu nome; devem pedir para que seu gozo seja completo."
+                },
+                {
+                    "versiculos": "25–33",
+                    "titulo": "Eu Venci o Mundo",
+                    "explicacao": "Jesus falou em alegorias, mas vem a hora em que não mais falará assim, mas claramente sobre o Pai. Naquele dia pedirão em nome de Jesus; ele não diz que rogará ao Pai por eles, pois o próprio Pai os ama porque amaram Jesus e creram que ele saiu de Deus. Jesus resume sua missão: saiu do Pai, veio ao mundo; agora deixa o mundo e vai ao Pai. Os discípulos declaram que agora ele fala claramente e creem que saiu de Deus. Jesus questiona: 'Agora credes?' e profetiza que será dispersado, cada um para sua casa, deixando-o só — embora não esteja só porque o Pai está com ele. Jesus disse essas coisas para que nele tenham paz. No mundo terão aflições, mas devem ter bom ânimo: 'Eu venci o mundo'. Esta é uma das declarações mais poderosas de confiança e vitória final sobre todas as adversidades."
+                }
+            ],
+            "sintese": [
+                "Perseguição religiosa pode vir daqueles que pensam servir a Deus",
+                "A partida de Jesus é necessária para a vinda do Espírito",
+                "O Espírito Santo convence o mundo e guia os crentes",
+                "Tristezas temporais se transformam em alegria permanente",
+                "Em Cristo temos paz apesar das aflições do mundo"
+            ]
+        },
+        {
+            "numero": 17,
+            "titulo": "Evangelho de João — Capítulo 17",
+            "intro": "Explicação completa dos versículos 1–26",
+            "blocos": [
+                {
+                    "versiculos": "1–5",
+                    "titulo": "Jesus Ora por Sua Glorificação",
+                    "explicacao": "Jesus levanta os olhos ao céu nesta oração sacerdotal. Declara que chegou a hora e pede que o Pai glorifique o Filho para que o Filho glorifique o Pai. O Pai lhe deu autoridade sobre toda carne para dar vida eterna a todos que lhe foram dados. Define vida eterna: conhecer o único Deus verdadeiro e Jesus Cristo, a quem enviou. Jesus glorificou o Pai na terra, consumando a obra que lhe foi dada. Agora pede que o Pai o glorifique com a glória que tinha antes do mundo existir — referência clara à sua preexistência e divindade eterna. Esta é a oração mais íntima e reveladora de Jesus registrada nas Escrituras."
+                },
+                {
+                    "versiculos": "6–19",
+                    "titulo": "Jesus Ora pelos Discípulos",
+                    "explicacao": "Jesus ora pelos que o Pai lhe deu dentre o mundo. Manifestou o nome do Pai a eles; eram do Pai e foram dados a Jesus; guardaram a palavra. Agora sabem que tudo que o Pai deu a Jesus vem dele. Jesus lhes deu as palavras que o Pai lhe deu; eles as receberam e creram verdadeiramente que Jesus saiu de Deus. Jesus roga por eles — não pelo mundo, mas pelos que o Pai lhe deu. Tudo que é de Jesus é do Pai e vice-versa; ele é glorificado neles. Jesus não está mais no mundo, mas eles estão; ele vai ao Pai e pede que os guarde no nome do Pai para que sejam um. Enquanto estava com eles, guardou-os; nenhum se perdeu exceto o filho da perdição, para que a Escritura se cumprisse. Jesus pede que tenham seu gozo completo. Deu-lhes a palavra do Pai; o mundo os odiou porque não são do mundo. Não pede que os tire do mundo, mas que os guarde do mal. Pede que sejam santificados na verdade — a palavra do Pai é a verdade. Como o Pai enviou Jesus ao mundo, ele envia os discípulos. Por eles Jesus se santifica para que também sejam santificados na verdade."
+                },
+                {
+                    "versiculos": "20–26",
+                    "titulo": "Jesus Ora por Todos os Crentes",
+                    "explicacao": "Jesus amplia sua oração além dos onze: ora também por aqueles que crerão nele pela palavra dos discípulos — ou seja, por todos os cristãos de todas as eras, incluindo nós. Pede que todos sejam um, como o Pai está em Jesus e Jesus no Pai; que também estejam neles para que o mundo creia que o Pai enviou Jesus. A glória que o Pai deu a Jesus, ele deu aos crentes para que sejam um — Jesus neles e o Pai em Jesus — para que sejam perfeitos em unidade e o mundo reconheça que o Pai enviou Jesus e os amou como amou o Filho. Jesus deseja que onde ele está, os que o Pai lhe deu também estejam, para contemplarem sua glória que o Pai lhe deu porque o amou antes da fundação do mundo. Conclui reconhecendo o Pai como justo: o mundo não o conheceu, mas Jesus o conheceu e esses conheceram que o Pai enviou Jesus. Jesus declarou o nome do Pai e continuará declarando, para que o amor com que o Pai o amou esteja neles, e Jesus neles. Esta oração revela o coração da Trindade e o propósito eterno de Deus para seus filhos."
+                }
+            ],
+            "sintese": [
+                "Vida eterna é conhecer pessoalmente Deus e Jesus Cristo",
+                "Jesus compartilha com o Pai a mesma glória desde a eternidade",
+                "Unidade dos crentes é testemunho poderoso ao mundo",
+                "Somos guardados no mundo, não removidos dele",
+                "O amor do Pai por nós é o mesmo que tem pelo Filho"
+            ]
+        },
+        {
+            "numero": 18,
+            "titulo": "Evangelho de João — Capítulo 18",
+            "intro": "Explicação completa dos versículos 1–40",
+            "blocos": [
+                {
+                    "versiculos": "1–11",
+                    "titulo": "A Prisão no Getsêmani",
+                    "explicacao": "Após a oração, Jesus vai com os discípulos além do ribeiro de Cedrom, onde havia um horto. Judas, conhecendo o lugar onde Jesus frequentemente se reunia com os discípulos, vem com uma coorte de soldados e guardas dos principais sacerdotes e fariseus, com lanternas, tochas e armas. Jesus, sabendo tudo que lhe sobreviria, adianta-se e pergunta: 'A quem buscais?' Respondem: 'Jesus Nazareno'. Jesus declara: 'Sou eu' (literalmente 'EU SOU'). Ao dizer isso, retrocedem e caem por terra — demonstração involuntária de seu poder divino. Jesus pergunta novamente e repete que é ele, ordenando que deixem os outros ir, cumprindo sua palavra de não perder nenhum dos que o Pai lhe deu. Pedro saca a espada e corta a orelha direita de Malco, servo do sumo sacerdote. Jesus ordena que guarde a espada: não beberá o cálice que o Pai lhe deu?"
+                },
+                {
+                    "versiculos": "12–27",
+                    "titulo": "Jesus Diante de Anás e Caifás",
+                    "explicacao": "A coorte, o comandante e os guardas prendem Jesus e o levam primeiro a Anás, sogro de Caifás, sumo sacerdote daquele ano — aquele que aconselhou que convinha que um homem morresse pelo povo. Pedro e outro discípulo seguem Jesus. Esse discípulo, conhecido do sumo sacerdote, entra com Jesus no pátio; Pedro fica fora. O outro discípulo sai, fala à porteira e introduz Pedro. A criada pergunta se ele também é discípulo de Jesus. Pedro nega: 'Não sou'. Enquanto isso, o sumo sacerdote interroga Jesus sobre seus discípulos e doutrina. Jesus responde que falou abertamente ao mundo, sempre ensinou na sinagoga e no templo onde todos os judeus se reúnem; nada disse em oculto. Por que o interroga? Deve perguntar aos que ouviram. Um dos guardas dá uma bofetada em Jesus por responder assim ao sumo sacerdote. Jesus questiona: se falou mal, testemunhe; se bem, por que o fere? Anás envia Jesus amarrado a Caifás. Enquanto isso, Pedro, aquecendo-se ao fogo, nega ser discípulo duas vezes mais. Imediatamente o galo canta."
+                },
+                {
+                    "versiculos": "28–40",
+                    "titulo": "Jesus Diante de Pilatos",
+                    "explicacao": "Da casa de Caifás levam Jesus ao pretório. É de madrugada e os judeus não entram no pretório para não se contaminarem, querendo comer a Páscoa. Pilatos sai e pergunta que acusação trazem. Respondem evasivamente que se não fosse malfeitor, não o entregariam. Pilatos diz que o julguem segundo sua lei. Revelam sua real intenção: não lhes é lícito matar ninguém — cumprindo a palavra de Jesus sobre como morreria. Pilatos entra, chama Jesus e pergunta: 'Tu és o rei dos judeus?' Jesus questiona se ele pergunta por si mesmo ou outros disseram isso. Pilatos responde irritado: 'Sou eu judeu? Tua nação e os principais sacerdotes te entregaram a mim; que fizeste?' Jesus explica que seu reino não é deste mundo; se fosse, seus servos lutariam para que não fosse entregue aos judeus. Pilatos insiste: 'Logo, tu és rei?' Jesus confirma: 'Tu dizes que sou rei. Para isso nasci e vim ao mundo: para dar testemunho da verdade. Todo aquele que é da verdade ouve minha voz'. Pilatos, cinicamente, pergunta: 'Que é a verdade?' e sem esperar resposta, sai. Declara aos judeus não achar nele crime algum. Menciona o costume de soltar um preso na Páscoa e oferece libertar 'o rei dos judeus'. Clamam: 'Não este, mas Barrabás!' — que era salteador. A ironia é brutal: preferem um criminoso violento ao Príncipe da Paz."
+                }
+            ],
+            "sintese": [
+                "Jesus se entrega voluntariamente — ninguém tira sua vida",
+                "O poder de Jesus se manifesta mesmo em sua prisão",
+                "Pedro nega Jesus três vezes, cumprindo a profecia",
+                "O reino de Cristo não é político, mas espiritual e eterno",
+                "A verdade confronta o cinismo e a injustiça humana"
+            ]
+        },
+        {
+            "numero": 19,
+            "titulo": "Evangelho de João — Capítulo 19",
+            "intro": "Explicação completa dos versículos 1–42",
+            "blocos": [
+                {
+                    "versiculos": "1–16",
+                    "titulo": "Eis o Homem",
+                    "explicacao": "Pilatos manda açoitar Jesus. Os soldados tecem uma coroa de espinhos, colocam em sua cabeça e o vestem com manto púrpura, zombando: 'Salve, rei dos judeus!' e dando-lhe bofetadas. Pilatos sai novamente e declara não achar nele crime algum. Jesus sai usando a coroa de espinhos e o manto púrpura. Pilatos apresenta: 'Eis o homem!' (Ecce Homo). Os principais sacerdotes e guardas clamam: 'Crucifica-o!' Pilatos os desafia a crucificá-lo eles mesmos, pois não acha nele crime. Os judeus respondem que têm lei, e segundo essa lei deve morrer porque se fez Filho de Deus. Pilatos, ainda mais amedrontado, volta ao pretório e pergunta de onde Jesus é, mas Jesus não responde. Pilatos apela à sua autoridade de libertá-lo ou crucificá-lo. Jesus responde que Pilatos não teria autoridade alguma se não lhe fosse dada do alto; portanto, quem o entregou tem maior pecado. Pilatos procura libertá-lo, mas os judeus ameaçam: se o soltar, não é amigo de César, pois quem se faz rei opõe-se a César. Pilatos traz Jesus para fora, senta-se no tribunal no Pavimento de Pedra e declara: 'Eis o vosso rei!' Clamam: 'Tira-o! Crucifica-o!' Pilatos pergunta: 'Hei de crucificar o vosso rei?' Os principais sacerdotes respondem: 'Não temos rei, senão César!' — negando assim as promessas messiânicas. Pilatos então entrega Jesus para ser crucificado."
+                },
+                {
+                    "versiculos": "17–27",
+                    "titulo": "A Crucificação",
+                    "explicacao": "Jesus, carregando sua cruz, vai ao lugar da Caveira (Gólgota em hebraico). Ali o crucificam, e com ele outros dois, um de cada lado, ficando Jesus no meio. Pilatos escreve um título e o põe na cruz: 'JESUS NAZARENO, O REI DOS JUDEUS', em hebraico, latim e grego. Os principais sacerdotes protestam, querendo que diga que ele 'disse ser rei dos judeus'. Pilatos responde firmemente: 'O que escrevi, escrevi'. Os soldados dividem as vestes de Jesus em quatro partes e lançam sortes sobre a túnica sem costura, cumprindo a Escritura: 'Repartiram entre si minhas vestes e sobre minha túnica lançaram sortes'. Junto à cruz estão sua mãe, a irmã dela, Maria esposa de Clopas e Maria Madalena. Jesus vê sua mãe e o discípulo amado e diz à mãe: 'Mulher, eis aí teu filho'. Ao discípulo: 'Eis aí tua mãe'. Desde aquela hora o discípulo a recebe em sua casa. Mesmo na agonia extrema, Jesus cuida de sua mãe."
+                },
+                {
+                    "versiculos": "28–37",
+                    "titulo": "Está Consumado",
+                    "explicacao": "Sabendo que tudo estava consumado, para que a Escritura se cumprisse, Jesus diz: 'Tenho sede'. Havia ali um vaso cheio de vinagre; encharcam uma esponja, colocam num hissopo e chegam à sua boca. Tendo recebido o vinagre, Jesus declara: 'Está consumado!' e, inclinando a cabeça, entrega o espírito. Por ser a preparação da Páscoa, os judeus pedem a Pilatos que quebrem as pernas dos crucificados e os tirem, para que não fiquem na cruz no sábado (pois era grande aquele sábado). Quebram as pernas dos dois, mas vindo a Jesus, vendo-o já morto, não lhe quebram as pernas. Um soldado lhe fura o lado com lança, e sai sangue e água. Quem viu testificou, e seu testemunho é verdadeiro. Isso aconteceu para que se cumprissem duas Escrituras: 'Nenhum dos seus ossos será quebrado' e 'Olharão para aquele que traspassaram'. João enfatiza o cumprimento profético preciso."
+                },
+                {
+                    "versiculos": "38–42",
+                    "titulo": "O Sepultamento",
+                    "explicacao": "José de Arimateia, discípulo secreto de Jesus por medo dos judeus, pede a Pilatos o corpo de Jesus, e Pilatos permite. Ele vai e tira o corpo. Nicodemos, aquele que antes fora ter com Jesus de noite, também vem trazendo cerca de cem libras de mirra e aloés. Tomam o corpo de Jesus e o envolvem em lençóis com as especiarias, conforme o costume judaico de sepultamento. No lugar onde foi crucificado havia um horto, e no horto um sepulcro novo onde ninguém ainda fora posto. Ali puseram Jesus por causa da preparação dos judeus, pois o sepulcro estava perto. Dois discípulos secretos se tornam públicos na morte de Jesus, arriscando-se para honrá-lo dignamente. O medo é vencido pelo amor."
+                }
+            ],
+            "sintese": [
+                "Jesus é apresentado como o Homem perfeito e o Rei rejeitado",
+                "A crucificação cumpre profecias específicas do Antigo Testamento",
+                "Mesmo sofrendo, Jesus demonstra amor e cuidado pelos seus",
+                "'Está consumado' — a obra redentora está completa",
+                "Discípulos secretos encontram coragem na hora mais sombria"
+            ]
+        },
+        {
+            "numero": 20,
+            "titulo": "Evangelho de João — Capítulo 20",
+            "intro": "Explicação completa dos versículos 1–31",
+            "blocos": [
+                {
+                    "versiculos": "1–10",
+                    "titulo": "O Túmulo Vazio",
+                    "explicacao": "No primeiro dia da semana, Maria Madalena vai ao sepulcro de madrugada, sendo ainda escuro, e vê a pedra tirada. Corre e vai ter com Pedro e o outro discípulo que Jesus amava, dizendo: 'Tiraram do sepulcro o Senhor, e não sabemos onde o puseram'. Pedro e o outro discípulo correm ao sepulcro. O outro discípulo corre mais depressa e chega primeiro, abaixa-se, vê os lençóis, mas não entra. Pedro chega depois e entra no sepulcro, vendo os lençóis e o lenço que estivera sobre a cabeça de Jesus, não com os lençóis, mas enrolado num lugar à parte. Então entra também o outro discípulo, vê e crê. Ainda não haviam compreendido a Escritura de que era necessário ressuscitar dentre os mortos. Os discípulos voltam para casa. Os lençóis organizados indicam que não houve roubo do corpo — a ressurreição foi ordenada e poderosa."
+                },
+                {
+                    "versiculos": "11–18",
+                    "titulo": "Jesus Aparece a Maria Madalena",
+                    "explicacao": "Maria fica chorando fora do sepulcro. Chorando, abaixa-se e olha para dentro, vendo dois anjos vestidos de branco sentados onde estivera o corpo de Jesus. Perguntam por que chora. Ela responde que tiraram seu Senhor e não sabe onde o puseram. Vira-se e vê Jesus em pé, mas não o reconhece. Jesus pergunta: 'Mulher, por que choras? A quem buscas?' Pensando ser o jardineiro, ela pede que diga onde o pôs para buscá-lo. Jesus diz simplesmente: 'Maria!' Ela, virando-se, exclama: 'Rabôni!' (Mestre). Jesus diz: 'Não me detenhas, porque ainda não subi ao Pai, mas vai aos meus irmãos e dize-lhes que subo para meu Pai e vosso Pai, meu Deus e vosso Deus'. Maria Madalena vai anunciar aos discípulos: 'Vi o Senhor!' e relata o que ele disse. Ela se torna a primeira testemunha e evangelista da ressurreição — honra notável numa cultura que desvalorizava o testemunho feminino."
+                },
+                {
+                    "versiculos": "19–23",
+                    "titulo": "Jesus Aparece aos Discípulos",
+                    "explicacao": "Na tarde daquele dia, o primeiro da semana, estando trancadas as portas onde os discípulos se encontravam por medo dos judeus, Jesus aparece no meio deles e diz: 'Paz seja convosco!' Mostra-lhes as mãos e o lado. Os discípulos se alegram vendo o Senhor. Jesus repete: 'Paz seja convosco! Assim como o Pai me enviou, eu também vos envio'. Sopra sobre eles e diz: 'Recebei o Espírito Santo. Àqueles a quem perdoardes os pecados, são-lhes perdoados; e àqueles a quem os retiverdes, são retidos'. Esta comissão apostólica estabelece autoridade espiritual para proclamar o evangelho do perdão. A paz de Cristo transforma medo em missão."
+                },
+                {
+                    "versiculos": "24–29",
+                    "titulo": "A Incredulidade de Tomé",
+                    "explicacao": "Tomé, um dos doze, chamado Dídimo, não estava com eles quando Jesus veio. Os outros discípulos dizem: 'Vimos o Senhor!' Tomé responde: 'Se não vir o sinal dos cravos em suas mãos, e não puser o dedo no lugar dos cravos, e não puser a mão no seu lado, de maneira nenhuma crerei'. Oito dias depois, os discípulos estão reunidos novamente, e Tomé com eles. Estando as portas trancadas, Jesus aparece e diz: 'Paz seja convosco!' Dirige-se a Tomé: 'Põe aqui o teu dedo e vê as minhas mãos; chega a tua mão e põe-na no meu lado; não sejas incrédulo, mas crente'. Tomé responde com a maior confissão de fé: 'Senhor meu e Deus meu!' Jesus declara: 'Porque me viste, creste? Bem-aventurados os que não viram e creram'. Essa bem-aventurança alcança todos os cristãos de todas as gerações que creem sem ter visto fisicamente o Cristo ressurreto."
+                },
+                {
+                    "versiculos": "30–31",
+                    "titulo": "O Propósito do Evangelho",
+                    "explicacao": "João conclui declarando que Jesus fez muitos outros sinais na presença dos discípulos que não estão escritos neste livro. Mas estes foram escritos para que creiam que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenham vida em seu nome. Este é o objetivo evangelístico explícito do evangelho de João: não simplesmente informar sobre Jesus, mas levar os leitores à fé salvadora nele como Messias e Filho divino, resultando em vida eterna. Cada milagre, discurso e evento foi cuidadosamente selecionado com propósito teológico e evangelístico claro."
+                }
+            ],
+            "sintese": [
+                "O túmulo vazio é evidência física da ressurreição",
+                "Jesus aparece pessoalmente, dissipando dúvidas",
+                "Os discípulos são comissionados e capacitados para a missão",
+                "Fé verdadeira pode existir sem evidência visual direta",
+                "O evangelho é escrito para gerar fé e vida eterna"
+            ]
+        },
+        {
+            "numero": 21,
+            "titulo": "Evangelho de João — Capítulo 21",
+            "intro": "Explicação completa dos versículos 1–25",
+            "blocos": [
+                {
+                    "versiculos": "1–14",
+                    "titulo": "A Pesca Miraculosa",
+                    "explicacao": "Jesus manifesta-se novamente aos discípulos junto ao mar de Tiberíades. Simão Pedro, Tomé, Natanael, os filhos de Zebedeu e outros dois discípulos estão juntos. Pedro anuncia: 'Vou pescar'. Os outros dizem: 'Também vamos contigo'. Saem e entram no barco, mas naquela noite não apanham nada. Ao amanhecer, Jesus está na praia, mas os discípulos não o reconhecem. Pergunta: 'Filhos, tendes algo de comer?' Respondem: 'Não'. Jesus ordena: 'Lançai a rede ao lado direito do barco e achareis'. Lançam e não conseguem puxá-la pela quantidade de peixes. O discípulo amado diz a Pedro: 'É o Senhor!' Ouvindo isso, Pedro veste a roupa (estava despido) e lança-se ao mar. Os outros vêm no barco arrastando a rede com peixes — cerca de duzentas côvados da terra. Ao desembarcarem, veem brasas, peixe posto sobre elas e pão. Jesus pede que tragam dos peixes que apanharam. Pedro sobe ao barco e puxa a rede com 153 grandes peixes; apesar de tantos, a rede não se rompe. Jesus convida: 'Vinde, comei'. Ninguém ousa perguntar quem é, sabendo ser o Senhor. Jesus toma o pão e lhes dá, e igualmente o peixe. Esta é a terceira vez que Jesus se manifesta aos discípulos após ressuscitar."
+                },
+                {
+                    "versiculos": "15–19",
+                    "titulo": "A Restauração de Pedro",
+                    "explicacao": "Depois de comerem, Jesus pergunta a Pedro: 'Simão, filho de João, amas-me mais do que estes?' Pedro responde: 'Sim, Senhor, tu sabes que te amo'. Jesus diz: 'Apascenta meus cordeiros'. Pergunta segunda vez: 'Simão, filho de João, amas-me?' Pedro confirma: 'Sim, Senhor, tu sabes que te amo'. Jesus ordena: 'Pastoreia minhas ovelhas'. Pergunta terceira vez: 'Simão, filho de João, amas-me?' Pedro entristece-se por perguntar três vezes e responde: 'Senhor, tu sabes todas as coisas; tu sabes que te amo'. Jesus comanda: 'Apascenta minhas ovelhas'. As três perguntas correspondem às três negações, oferecendo restauração completa. Jesus profetiza sobre a morte de Pedro: quando jovem, cingia-se e ia onde queria; quando envelhecer, estenderá as mãos e outro o cingirá e levará para onde não quer — indicando com que morte glorificaria a Deus. Então diz: 'Segue-me'. Pedro, que negou três vezes, receberá a graça de morrer como mártir por Cristo."
+                },
+                {
+                    "versiculos": "20–25",
+                    "titulo": "O Discípulo Amado e a Conclusão",
+                    "explicacao": "Pedro, virando-se, vê o discípulo amado seguindo (aquele que na ceia se reclinara ao peito de Jesus e perguntara quem o trairia). Pedro pergunta: 'Senhor, e este, que será dele?' Jesus responde: 'Se eu quero que ele permaneça até que eu venha, que te importa? Quanto a ti, segue-me'. Espalha-se entre os irmãos que aquele discípulo não morreria. Mas Jesus não disse que não morreria, apenas 'Se eu quero que permaneça até que eu venha, que te importa?' João clarifica o mal-entendido. João identifica-se como o discípulo que testifica dessas coisas e as escreveu, e seu testemunho é verdadeiro. Conclui afirmando que Jesus fez ainda muitas outras coisas; se fossem escritas uma por uma, nem no mundo inteiro caberiam os livros que seriam escritos. Esta hipérbole enfatiza a imensidão da obra e dos ensinamentos de Cristo — o evangelho registra apenas uma amostra selecionada para gerar fé. João encerra seu evangelho exaltando a grandeza infinita de Jesus Cristo."
+                }
+            ],
+            "sintese": [
+                "Jesus restaura e recomissiona aqueles que falharam",
+                "Amar Jesus se expressa em cuidar de seu rebanho",
+                "Cada discípulo tem um chamado único — não compare",
+                "O testemunho ocular é a base do evangelho escrito",
+                "A obra de Cristo é infinitamente maior que qualquer registro"
+            ]
+        }
+    ]
+}

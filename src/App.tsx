@@ -11,13 +11,20 @@ import { MarcosList } from './pages/MarcosList';
 import { MarcosDetail } from './pages/MarcosDetail';
 import { LucasList } from './pages/LucasList';
 import { LucasDetail } from './pages/LucasDetail';
+import { JoaoList } from './pages/JoaoList';
+import { JoaoDetail } from './pages/JoaoDetail';
+import { AntigoTestamentoList } from './pages/AntigoTestamentoList';
+import { NovoTestamentoList } from './pages/NovoTestamentoList';
+import { ColecaoOuroList } from './pages/ColecaoOuroList';
 import { ThemeProvider } from './contexts/ThemeContext';
 import salmosData from './data/salmos.json';
 import proverbiosData from './data/proverbios.json';
 import mateusData from './data/mateus.json';
 import marcosData from './data/marcos.json';
 import lucasData from './data/lucas.json';
-import { Salmo, Proverbio, Mateus, Marcos, Lucas, Category } from './types';
+import joaoData from './data/joao.json';
+import colecaoOuroData from './data/colecao-ouro.json';
+import { Salmo, Proverbio, Mateus, Marcos, Lucas, Joao, Category } from './types';
 
 
 function App() {
@@ -27,6 +34,7 @@ function App() {
   const [selectedMateus, setSelectedMateus] = useState<number | null>(null);
   const [selectedMarcos, setSelectedMarcos] = useState<number | null>(null);
   const [selectedLucas, setSelectedLucas] = useState<number | null>(null);
+  const [selectedJoao, setSelectedJoao] = useState<number | null>(null);
 
   const handleCategorySelect = (category: Category) => {
     setCurrentCategory(category);
@@ -39,6 +47,7 @@ function App() {
     setSelectedMateus(null);
     setSelectedMarcos(null);
     setSelectedLucas(null);
+    setSelectedJoao(null);
   };
 
   // Salmos Handlers
@@ -86,6 +95,15 @@ function App() {
     setSelectedLucas(null);
   };
 
+  // João Handlers
+  const handleJoaoClick = (numero: number) => {
+    setSelectedJoao(numero);
+  };
+
+  const handleBackToJoaoList = () => {
+    setSelectedJoao(null);
+  };
+
   // Data retrieval
   const currentSalmo = selectedSalmo
     ? salmosData.salmos.find((s: Salmo) => s.numero === selectedSalmo)
@@ -105,6 +123,10 @@ function App() {
 
   const currentLucas = selectedLucas
     ? lucasData.capitulos.find((l: Lucas) => l.numero === selectedLucas)
+    : null;
+
+  const currentJoao = selectedJoao
+    ? joaoData.capitulos.find((j: Joao) => j.numero === selectedJoao)
     : null;
 
   const renderContent = () => {
@@ -187,60 +209,43 @@ function App() {
       );
     }
 
+    // 4.7 João Flow
+    if (currentCategory === 'joao') {
+      if (currentJoao) {
+        return <JoaoDetail joao={currentJoao} onBack={handleBackToJoaoList} />;
+      }
+      return (
+        <JoaoList
+          onJoaoClick={handleJoaoClick}
+          onBack={handleBackToDashboard}
+        />
+      );
+    }
+
     // 5. Antigo Testamento Flow
     if (currentCategory === 'antigo-testamento') {
       return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
-          <div className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-              <button onClick={handleBackToDashboard} className="text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white flex items-center gap-2">
-                ← Voltar para Biblioteca
-              </button>
-            </div>
-          </div>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Antigo Testamento</h2>
-            <p className="text-gray-600 dark:text-gray-400">Conteúdo em desenvolvimento. Em breve, 100 versículos explicados.</p>
-          </div>
-        </div>
+        <AntigoTestamentoList
+          onBack={handleBackToDashboard}
+        />
       );
     }
 
     // 6. Novo Testamento Flow
     if (currentCategory === 'novo-testamento') {
       return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
-          <div className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-              <button onClick={handleBackToDashboard} className="text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white flex items-center gap-2">
-                ← Voltar para Biblioteca
-              </button>
-            </div>
-          </div>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Novo Testamento</h2>
-            <p className="text-gray-600 dark:text-gray-400">Conteúdo em desenvolvimento. Em breve, 100 versículos explicados.</p>
-          </div>
-        </div>
+        <NovoTestamentoList
+          onBack={handleBackToDashboard}
+        />
       );
     }
 
     // 7. Coleção de Ouro Flow
     if (currentCategory === 'colecao-ouro') {
       return (
-        <div className="min-h-screen bg-gray-50 dark:bg-gray-950">
-          <div className="bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-800">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-              <button onClick={handleBackToDashboard} className="text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white flex items-center gap-2">
-                ← Voltar para Biblioteca
-              </button>
-            </div>
-          </div>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">Coleção de Ouro</h2>
-            <p className="text-gray-600 dark:text-gray-400">Conteúdo em desenvolvimento. Em breve, 200 versículos reveladores.</p>
-          </div>
-        </div>
+        <ColecaoOuroList
+          onBack={handleBackToDashboard}
+        />
       );
     }
   };

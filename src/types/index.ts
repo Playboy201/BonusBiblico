@@ -75,4 +75,36 @@ export interface LucasData {
   capitulos: Lucas[];
 }
 
-export type Category = 'salmos' | 'proverbios' | 'mateus' | 'marcos' | 'lucas' | 'antigo-testamento' | 'novo-testamento' | 'colecao-ouro' | null;
+export interface Joao {
+  numero: number;
+  titulo: string;
+  intro: string;
+  blocos: BlocoExplicacao[];
+  sintese?: string[];
+}
+
+export interface JoaoData {
+  capitulos: Joao[];
+}
+
+export interface VersiculoExplicado {
+  id: number;
+  referencia: string;
+  texto: string;
+  explicacao: string;
+  tema?: string;
+}
+
+export interface AntigoTestamentoData {
+  versiculos: VersiculoExplicado[];
+}
+
+export interface NovoTestamentoData {
+  versiculos: VersiculoExplicado[];
+}
+
+export interface ColecaoOuroData {
+  versiculos: VersiculoExplicado[];
+}
+
+export type Category = 'salmos' | 'proverbios' | 'mateus' | 'marcos' | 'lucas' | 'joao' | 'antigo-testamento' | 'novo-testamento' | 'colecao-ouro' | null;
