@@ -9,15 +9,19 @@ interface NovoTestamentoListProps {
 export function NovoTestamentoList({ onBack }: NovoTestamentoListProps) {
     return (
         <div className="min-h-screen bg-[#fff5f5] dark:bg-gray-950 animate-fade-in">
-            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                <button
-                    onClick={onBack}
-                    className="mb-8 text-sm text-red-900/60 dark:text-gray-400 hover:text-red-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium group"
-                >
-                    <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
-                    Voltar para Biblioteca
-                </button>
+            <div className="sticky top-0 z-50 bg-[#fff5f5]/90 dark:bg-gray-950/90 backdrop-blur-sm border-b border-red-100 dark:border-gray-800 mb-8">
+                <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center">
+                    <button
+                        onClick={onBack}
+                        className="text-sm text-red-900/60 dark:text-gray-400 hover:text-red-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium group"
+                    >
+                        <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
+                        Voltar para Biblioteca
+                    </button>
+                </div>
+            </div>
 
+            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
                 <div className="mb-12 text-center animate-slide-up">
                     <div className="inline-flex items-center justify-center w-16 h-16 bg-red-100 dark:bg-red-900/30 rounded-2xl mb-4 relative overflow-hidden group">
                         <div className="absolute inset-0 bg-red-500/10 group-hover:scale-150 transition-transform duration-700 rounded-full" />

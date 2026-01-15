@@ -9,15 +9,19 @@ interface AntigoTestamentoListProps {
 export function AntigoTestamentoList({ onBack }: AntigoTestamentoListProps) {
     return (
         <div className="min-h-screen bg-[#fdfaf6] dark:bg-gray-950">
-            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                <button
-                    onClick={onBack}
-                    className="mb-8 text-sm text-amber-900/60 dark:text-gray-400 hover:text-amber-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium"
-                >
-                    <ArrowLeft className="w-4 h-4" />
-                    Voltar para Biblioteca
-                </button>
+            <div className="sticky top-0 z-50 bg-[#fdfaf6]/90 dark:bg-gray-950/90 backdrop-blur-sm border-b border-amber-100 dark:border-gray-800 mb-8">
+                <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center">
+                    <button
+                        onClick={onBack}
+                        className="text-sm text-amber-900/60 dark:text-gray-400 hover:text-amber-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium"
+                    >
+                        <ArrowLeft className="w-4 h-4" />
+                        Voltar para Biblioteca
+                    </button>
+                </div>
+            </div>
 
+            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
                 <div className="mb-12 text-center">
                     <div className="inline-flex items-center justify-center w-16 h-16 bg-amber-100 dark:bg-amber-900/30 rounded-2xl mb-4">
                         <Book className="w-8 h-8 text-amber-900 dark:text-amber-400" />

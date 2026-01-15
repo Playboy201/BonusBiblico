@@ -51,13 +51,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         <Book className="w-6 h-6 text-amber-500" />
                         Sua Biblioteca
                     </h2>
-                    <div className="flex gap-2 items-center">
-                        <span className="text-sm text-gray-500 dark:text-gray-400">Progresso Total:</span>
-                        <div className="w-32 h-2.5 bg-gray-200 dark:bg-gray-800 rounded-full overflow-hidden relative">
-                            <div className="absolute top-0 left-0 h-full w-[15%] bg-gradient-to-r from-amber-400 to-orange-500 rounded-full" />
-                        </div>
-                        <span className="text-sm font-bold text-amber-600 dark:text-amber-400">15%</span>
-                    </div>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -70,7 +63,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="orange"
                         tag="Comece por aqui"
                         meta="16 Capítulos • Narrativa"
-                        progress={0}
                         onClick={() => onSelectCategory('marcos')}
                     />
 
@@ -83,7 +75,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="amber"
                         tag="Recomendado para momentos difíceis"
                         meta="150 Capítulos • Devocional"
-                        progress={12}
                         onClick={() => onSelectCategory('salmos')}
                     />
 
@@ -96,7 +87,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="purple"
                         tag="Leitura diária"
                         meta="31 Capítulos • Sabedoria"
-                        progress={45}
                         onClick={() => onSelectCategory('proverbios')}
                     />
 
@@ -155,7 +145,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="blue"
                         tag="Estudo profundo"
                         meta="28 Capítulos • Estudo"
-                        progress={5}
                         onClick={() => onSelectCategory('mateus')}
                     />
 
@@ -168,7 +157,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="red"
                         tag="Estudo profundo"
                         meta="24 Capítulos • Histórico"
-                        progress={0}
                         onClick={() => onSelectCategory('lucas')}
                     />
 
@@ -181,7 +169,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="cyan"
                         tag="Reflexão Espiritual"
                         meta="21 Capítulos • Teológico"
-                        progress={0}
                         onClick={() => onSelectCategory('joao')}
                     />
 
@@ -194,7 +181,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="amber"
                         tag="Essencial"
                         meta="100 Versículos • Doutrina"
-                        progress={0}
                         onClick={() => onSelectCategory('antigo-testamento')}
                     />
 
@@ -207,7 +193,6 @@ export function Dashboard({ onSelectCategory }: DashboardProps) {
                         color="rose"
                         tag="Essencial"
                         meta="100 Versículos • Doutrina"
-                        progress={0}
                         onClick={() => onSelectCategory('novo-testamento')}
                     />
                 </div>
@@ -224,11 +209,10 @@ interface CardProps {
     color: 'amber' | 'purple' | 'blue' | 'orange' | 'red' | 'cyan' | 'rose';
     tag?: string;
     meta: string;
-    progress: number;
     onClick: () => void;
 }
 
-function Card({ title, subtitle, description, icon, color, tag, meta, progress, onClick }: CardProps) {
+function Card({ title, subtitle, description, icon, color, tag, meta, onClick }: CardProps) {
     const colorClasses = {
         amber: 'bg-amber-100 text-amber-600 dark:bg-amber-900/30 dark:text-amber-400 group-hover:bg-amber-200 dark:group-hover:bg-amber-900/50',
         purple: 'bg-purple-100 text-purple-600 dark:bg-purple-900/30 dark:text-purple-400 group-hover:bg-purple-200 dark:group-hover:bg-purple-900/50',
@@ -289,18 +273,6 @@ function Card({ title, subtitle, description, icon, color, tag, meta, progress, 
                         <Clock className="w-3 h-3" /> {meta}
                     </span>
                 </div>
-                {/* Progress Bar */}
-                <div className="w-full h-1.5 bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
-                    <div
-                        className={`h-full rounded-full transition-all duration-500 ${progress > 0 ? 'bg-amber-500' : 'bg-transparent'}`}
-                        style={{ width: `${progress}%` }}
-                    />
-                </div>
-                {progress > 0 && (
-                    <p className="text-[10px] text-amber-600 dark:text-amber-500 font-medium mt-1 text-right">
-                        {progress}% concluído
-                    </p>
-                )}
             </div>
         </button>
     );

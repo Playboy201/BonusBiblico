@@ -9,15 +9,19 @@ interface ColecaoOuroListProps {
 export function ColecaoOuroList({ onBack }: ColecaoOuroListProps) {
     return (
         <div className="min-h-screen bg-[#fffdf5] dark:bg-gray-950 animate-fade-in">
-            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                <button
-                    onClick={onBack}
-                    className="mb-8 text-sm text-yellow-900/60 dark:text-gray-400 hover:text-yellow-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium group"
-                >
-                    <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
-                    Voltar para Biblioteca
-                </button>
+            <div className="sticky top-0 z-50 bg-[#fffdf5]/90 dark:bg-gray-950/90 backdrop-blur-sm border-b border-yellow-100 dark:border-gray-800 mb-8">
+                <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center">
+                    <button
+                        onClick={onBack}
+                        className="text-sm text-yellow-900/60 dark:text-gray-400 hover:text-yellow-900 dark:hover:text-white flex items-center gap-2 transition-colors font-medium group"
+                    >
+                        <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
+                        Voltar para Biblioteca
+                    </button>
+                </div>
+            </div>
 
+            <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
                 <div className="mb-12 text-center animate-slide-up">
                     <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-yellow-100 to-amber-200 dark:from-yellow-900/30 dark:to-amber-900/30 rounded-3xl mb-6 relative overflow-hidden group shadow-xl shadow-yellow-200/50 dark:shadow-none">
                         <div className="absolute inset-0 bg-white/20 group-hover:translate-x-full transition-transform duration-1000 skew-x-12" />
