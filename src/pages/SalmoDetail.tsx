@@ -22,9 +22,9 @@ export function SalmoDetail({ salmo, onBack }: SalmoDetailProps) {
       setIsRead(true);
     }
 
-    document.title = `${salmo.titulo} - 150 Salmos Explicados`;
+    document.title = `${salmo.titulo} - Bíblia Explicada`;
     return () => {
-      document.title = '150 Salmos Explicados';
+      document.title = 'Bíblia Explicada';
     };
   }, [salmo]);
 

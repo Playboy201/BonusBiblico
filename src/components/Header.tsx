@@ -14,7 +14,7 @@ export function Header() {
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900 dark:text-white">
-                150 Salmos Explicados
+                Bíblia Explicada
               </h1>
               <p className="text-xs text-gray-600 dark:text-gray-400">
                 Sabedoria bíblica ao seu alcance
